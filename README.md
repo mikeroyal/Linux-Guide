@@ -131,3 +131,36 @@
 [Unity Desktop](https://unity8.io/), a graphical shell for the GNOME desktop environment originally developed by Canonical Ltd.
 
 ![unity-desktop](https://user-images.githubusercontent.com/45159366/62761607-e9ceed00-ba3b-11e9-900a-591c53152e1f.png?raw=true "unity-desktop")
+
+## Windows mangers
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/58378567-d804a000-7f4a-11e9-9b60-db6a0136261f.png">
+  <br />
+  i3 wm
+</h1>
+
+[i3-wm](https://i3wm.org/), a tiling window manager for X11.
+
+
+![i3-wm](https://user-images.githubusercontent.com/45159366/58378568-d935cd00-7f4a-11e9-8dd1-3c2a92986a68.png?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/58737339-f7218880-83b5-11e9-8315-69f1405b1719.png">
+  <br />
+ awesome wm
+</h1>
+
+[Awesome](https://awesomewm.org/), a highly configurable, next generation framework window manager for X. 
+
+![awesome-wm](https://user-images.githubusercontent.com/45159366/58737340-f7ba1f00-83b5-11e9-98f2-d801ed881396.png?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/60765336-04cdcc00-a04e-11e9-999a-3dd7547f9bb0.png">
+  <br />
+  Bspwm
+</h1>
+
+[Bspwm](https://github.com/baskerville/bspwm), a tiling window manager based on binary space partitioning with a focus on resource efficiency.
+
+![bspwm](https://user-images.githubusercontent.com/45159366/60765269-d7cce980-a04c-11e9-9a69-3ee236c07a8f.png?raw=true "image")

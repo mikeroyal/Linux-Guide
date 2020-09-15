@@ -177,18 +177,6 @@
 
 [System76](https://system76.com) makers of [Pop!_OS](https://pop.system76.com/)
 
-## Linux Companies
-
-[Red Hat](https://www.redhat.com/en) makers of Red Hat Enterprise Linux and sponsors to the [Fedora Project](https://getfedora.org/).
-
-[Canonical](https://canonical.com) makers of Ubuntu Desktop and Server.
-
-[SUSE](https://www.suse.com) makers of SUSE Enterprise Linux.
-
-[Manjaro](https://manjaro.org) makers of Manjaro Linux.
-
-[System76](https://system76.com) makers of [Pop!_OS](https://pop.system76.com/)
-
 ## Linux Hardware Vendors
 
 [System76](https://system76.com)

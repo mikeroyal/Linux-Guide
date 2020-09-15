@@ -164,3 +164,16 @@
 [Bspwm](https://github.com/baskerville/bspwm), a tiling window manager based on binary space partitioning with a focus on resource efficiency.
 
 ![bspwm](https://user-images.githubusercontent.com/45159366/60765269-d7cce980-a04c-11e9-9a69-3ee236c07a8f.png?raw=true "image")
+
+## Linux Companies
+
+[Red Hat](https://www.redhat.com/en) makers of Red Hat Enterprise Linux and sponsors to the [Fedora Project](https://getfedora.org/).
+
+[Canonical](https://canonical.com) makers of Ubuntu Desktop and Server.
+
+[SUSE](https://www.suse.com) makers of SUSE Enterprise Linux.
+
+[Manjaro](https://manjaro.org) makers of Manjaro Linux.
+
+[System76](https://system76.com) makers of [Pop!_OS](https://pop.system76.com/)
+

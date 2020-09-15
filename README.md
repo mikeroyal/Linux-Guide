@@ -177,3 +177,28 @@
 
 [System76](https://system76.com) makers of [Pop!_OS](https://pop.system76.com/)
 
+## Linux Companies
+
+[Red Hat](https://www.redhat.com/en) makers of Red Hat Enterprise Linux and sponsors to the [Fedora Project](https://getfedora.org/).
+
+[Canonical](https://canonical.com) makers of Ubuntu Desktop and Server.
+
+[SUSE](https://www.suse.com) makers of SUSE Enterprise Linux.
+
+[Manjaro](https://manjaro.org) makers of Manjaro Linux.
+
+[System76](https://system76.com) makers of [Pop!_OS](https://pop.system76.com/)
+
+## Linux Hardware Vendors
+
+[System76](https://system76.com)
+
+[Tuexdo Computers](https://www.tuxedocomputers.com/en)
+
+[Entroware](https://www.entroware.com/store/)
+
+[Dell](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems) 
+
+[Lenovo](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/X1-Carbon-Gen-8-/p/22TP2X1X1C8?clickid=2BI2bvSDaxyOUYgwUx0Mo36AUkiXENxNRV4X240&irgwc=1&PID=2347489&acid=ww%3Aaffiliate%3Abv0as6)
+
+[HP](https://www8.hp.com/us/en/campaigns/ubuntu/index.html)

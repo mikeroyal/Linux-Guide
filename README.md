@@ -202,3 +202,11 @@
 [Lenovo](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/X1-Carbon-Gen-8-/p/22TP2X1X1C8?clickid=2BI2bvSDaxyOUYgwUx0Mo36AUkiXENxNRV4X240&irgwc=1&PID=2347489&acid=ww%3Aaffiliate%3Abv0as6)
 
 [HP](https://www8.hp.com/us/en/campaigns/ubuntu/index.html)
+
+## Linux in the Cloud
+
+[Amazon Linux 2](https://aws.amazon.com/amazon-linux-2/) a next generation of Amazon Linux, a Linux server operating system from Amazon Web Services (AWS). It provides a secure, stable, and high performance execution environment to develop and run cloud and enterprise applications. With Amazon Linux 2, you get an application environment that offers long term support with access to the latest innovations in the Linux ecosystem.
+
+[Azure Sphere](https://www.microsoft.com/en-us/azure-sphere/) is a secured, high-level application platform with built-in communication and security features for internet-connected devices. The platform consists of the integration of hardware built around a secured silicon chip; the Azure Sphere OS, a custom high-level Linux-based operating system; and the Azure Sphere Security Service, a cloud-based security service that provides continuous security.
+
+[Creating a virtual Linux workstation in Google Cloud](https://cloud.google.com/solutions/creating-a-virtual-linux-workstation).

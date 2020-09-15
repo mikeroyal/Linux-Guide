@@ -27,3 +27,107 @@
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) is a cross-industry collaboration that brings together leaders to improve the security of open source software by building a broader community, targeted initiatives, and best practices. The OpenSSF brings together open source security initiatives under one foundation to accelerate work through cross-industry support. Along with the Core Infrastructure Initiative and the Open Source Security Coalition, and will include new working groups that address vulnerability disclosures, security tooling and more.
 
 [Free Software Foundation (FSF)](https://www.fsf.org/) is a nonprofit with a worldwide mission to promote computer user freedom.
+
+## Desktop Environments
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/93250993-745a4380-f748-11ea-9b59-ec45e1817fc7.png">
+  <br />
+  KDE Plasma Desktop
+</h1>
+
+[KDE Plasma Desktop](https://kde.org), is a beautiful Windows-like desktop that you use to surf the web, keep in touch with colleagues, friends and family, manage your files, enjoy music and videos; and get creative and productive at work. The KDE community develops and maintains more than 200 applications which run on any Linux desktop, and often other platforms too.
+
+![image](https://user-images.githubusercontent.com/45159366/93250998-758b7080-f748-11ea-814e-40e04ac3df4b.jpeg?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/53324409-96a21d00-3895-11e9-9cc8-d6a3695f5ce3.png">
+  <br />
+  GNOME Desktop
+</h1>
+
+[GNOME Desktop](https://www.gnome.org/), An easy and elegant way to use your computer, GNOME 3 is designed to put you in control and get things done.
+
+![image](https://user-images.githubusercontent.com/45159366/53324406-91dd6900-3895-11e9-870d-2d3635cba408.jpeg?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/52540606-4af15e80-2d40-11e9-8704-3308568fd105.png">
+  <br />
+  MATE Desktop
+</h1>
+
+[MATE Desktop](https://mate-desktop.org/), is the continuation of GNOME 2 desktop environment.  
+
+![image](https://user-images.githubusercontent.com/45159366/54108470-4c429500-4399-11e9-8b8a-3ad0e831214b.png?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/52040486-66609c00-24ec-11e9-9f2d-468a387a9ce1.png">
+  <br />
+  Budgie Desktop
+</h1>
+
+[Budgie Desktop](https://getsol.us/solus/experiences/), a feature-rich, modern desktop designed to keep out the way of the user. 
+
+![budgie-desktop](https://user-images.githubusercontent.com/45159366/60866577-899b2000-a1dd-11e9-8d8f-48716ac14fba.png?raw=true "budgie-desktop")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/52910555-f3765580-324d-11e9-8597-99e6f3241701.png">
+  <br />
+  XFCE Desktop
+</h1>
+
+[XFCE Desktop](https://xfce.org/), a lightweight desktop environment for UNIX-like operating systems. 
+
+
+![image](https://user-images.githubusercontent.com/45159366/52910530-9a0e2680-324d-11e9-8e55-a7450c7fc316.png?raw=true "image")
+
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/52699255-31136f80-2f2a-11e9-865c-75d7ee219cef.png">
+  <br />
+  Cinnamon Desktop
+</h1>
+
+[Cinnamon Desktop](https://cinnamon-spices.linuxmint.com/), a Linux desktop which provides advanced innovative features and a traditional user experience.
+
+![image](https://user-images.githubusercontent.com/45159366/54108466-4a78d180-4399-11e9-90aa-9340ca45ab1a.png?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/51798500-3782b700-21c8-11e9-83d6-9822ca172425.png">
+  <br />
+  LXQt Desktop
+</h1>
+
+[LXQt Desktop](https://lxqt.org/),the Lightweight Qt Desktop Environment.
+
+![image](https://user-images.githubusercontent.com/45159366/60866574-8869f300-a1dd-11e9-8c56-da585fe2d581.png?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/53791160-97623100-3edd-11e9-9015-9319a857e1b0.png">
+  <br />
+  Pantheon Desktop
+</h1>
+
+[Pantheon Desktop](https://elementary.io/), a GTK desktop based on the GNOME software base maintained by the elementary OS developers.
+
+![image](https://user-images.githubusercontent.com/45159366/53000646-ba6ceb00-33dd-11e9-93dd-fbd262cf1ce8.jpeg?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/63739716-1d36b780-c843-11e9-94f1-2085af4005a3.png">
+  <br />
+  Deepin Desktop
+</h1>
+
+[Deepin Desktop](https://www.deepin.org/en/dde/), an elegant, easy to use and reliable domestic desktop environment.
+
+![image](https://user-images.githubusercontent.com/45159366/57979064-21923f80-79cd-11e9-842a-55ab9ec73d41.jpeg?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/62761602-e8052980-ba3b-11e9-986d-4a2d801a83b1.png">
+  <br />
+  Unity Desktop
+</h1>
+
+[Unity Desktop](https://unity8.io/), a graphical shell for the GNOME desktop environment originally developed by Canonical Ltd.
+
+![unity-desktop](https://user-images.githubusercontent.com/45159366/62761607-e9ceed00-ba3b-11e9-900a-591c53152e1f.png?raw=true "unity-desktop")

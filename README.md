@@ -12,6 +12,8 @@
 
 [Contribute to FOSS](https://github.com/KillYourFM/contribute-foss) by Jason Evangelho, is an entensive Wiki page on how to contribute to the Linux and FOSS community.
 
+[The Open Source Computer Science Degree by Forrest Knight](https://github.com/ForrestKnight/open-source-cs)
+
 [My Windows Subsystem for Linux(WSl) Guide](https://github.com/mikeroyal/WSL-Guide)
 
 [A Cloud Guru Linux Training Certifictions](https://acloudguru.com/linux-training)

@@ -18,6 +18,10 @@
 
 [A Cloud Guru Linux Training Certifictions](https://acloudguru.com/linux-training)
 
+[Red Hat Training and Certification Program](https://www.redhat.com/en/services/training-and-certification)
+
+[Linux Foundation Training and Certification Program](https://training.linuxfoundation.org/certification/)
+
 [Linux Professional Institute(LPI)](https://www.lpi.org) is a non profit organization. Linux Professional Institute (LPI) is the global certification standard and career support organization for open source professionals. With more than 175,000 certification holders, it's the world's first and largest vendor-neutral Linux and open source certification body.
 
 [Linux Foundation](https://www.linuxfoundation.org/) is home to Linux, Node.js and other mission critical projects that form the backbone of modern internet services, including Pinterest. Joining The Linux Foundation is a great way for established companies like ours to support those communities. 

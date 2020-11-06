@@ -201,6 +201,37 @@
 
 [Amazon Linux 2](https://aws.amazon.com/amazon-linux-2/) a next generation of Amazon Linux, a Linux server operating system from Amazon Web Services (AWS). It provides a secure, stable, and high performance execution environment to develop and run cloud and enterprise applications. With Amazon Linux 2, you get an application environment that offers long term support with access to the latest innovations in the Linux ecosystem.
 
+[Bottlerocket](https://aws.amazon.com/bottlerocket/) is a Linux-based open-source operating system that is purpose-built by Amazon Web Services for running containers on virtual machines or bare metal hosts. Most customers today run containerized applications on general-purpose operating systems that are updated package-by-package, which makes OS updates difficult to automate.
+
+[Getting Started with Bottlerocket and Certified AWS Partners](https://aws.amazon.com/blogs/apn/getting-started-with-bottlerocket-and-certified-aws-partners/)
+
+[Using Bottlerocket with Amazon ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-bottlerocket.html)
+
+[Amazon Linux AMI](https://aws.amazon.com/amazon-linux-ami/) is a supported and maintained Linux image provided by Amazon Web Services for use on Amazon Elastic Compute Cloud (Amazon EC2). It is designed to provide a stable, secure, and high performance execution environment for applications running on Amazon EC2.
+
+[Ubuntu on AWS](https://ubuntu.com/aws)
+
+[Ubuntu on Azure](https://ubuntu.com/azure)
+
+[Ubuntu Pro for Azure](https://ubuntu.com/azure/pro)
+
+[Linux on Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
+
+[Creating a Linux VM in the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
+
 [Azure Sphere](https://www.microsoft.com/en-us/azure-sphere/) is a secured, high-level application platform with built-in communication and security features for internet-connected devices. The platform consists of the integration of hardware built around a secured silicon chip; the Azure Sphere OS, a custom high-level Linux-based operating system; and the Azure Sphere Security Service, a cloud-based security service that provides continuous security.
 
 [Creating a virtual Linux workstation in Google Cloud](https://cloud.google.com/solutions/creating-a-virtual-linux-workstation).
+
+[Preparing Linux VMs migrating to Google Cloud with Migrate for Compute Engine](https://cloud.google.com/migrate/compute-engine/docs/4.5/how-to/prepare-vms-servers/preparing-linux-vms)
+
+[Understanding OpenStack on Red Hat](https://www.redhat.com/en/topics/openstack)
+
+[Understanding OpenStack on Ubuntu](https://ubuntu.com/openstack/what-is-openstack)
+
+[Initial Server Setup with Ubuntu 20.04 on DigitalOcean](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
+
+[Tutorials for Setting up Linux workspaces on DigitalOcean](https://www.digitalocean.com/community/tutorials?q=linux)
+
+[DigitalOcean Marketplace](https://marketplace.digitalocean.com/)
+

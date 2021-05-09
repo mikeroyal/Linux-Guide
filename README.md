@@ -15,7 +15,7 @@
 
  2. [Linux Destop Environments](https://github.com/mikeroyal/Linux-Guide#linux-desktop-environments)
 
- 3. [Linux Windows Managers](https://github.com/mikeroyal/Linux-Guide#linux-window-managers)
+ 3. [Linux Window Managers](https://github.com/mikeroyal/Linux-Guide#linux-window-managers)
 
  4. [Linux Companies](https://github.com/mikeroyal/Linux-Guide#linux-companies)
 
@@ -166,7 +166,7 @@
 
 ![unity-desktop](https://user-images.githubusercontent.com/45159366/62761607-e9ceed00-ba3b-11e9-900a-591c53152e1f.png?raw=true "unity-desktop")
 
-# Linux Windows Managers
+# Linux Window Managers
 
 [Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
 

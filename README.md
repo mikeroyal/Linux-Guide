@@ -19,7 +19,7 @@
 
  4. [Linux Companies](https://github.com/mikeroyal/Linux-Guide#linux-companies)
 
- 5. [Linux Hardware Vendors](https://github.com/mikeroyal/Linux-Guide#linuxhardware-vendors)
+ 5. [Linux Hardware Vendors](https://github.com/mikeroyal/Linux-Guide#linux-hardware-vendors)
 
  6. [Linux in the Cloud](https://github.com/mikeroyal/Linux-Guide#linux-in-the-cloud)
 

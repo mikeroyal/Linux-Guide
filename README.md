@@ -1,12 +1,38 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/93251390-f6e30300-f748-11ea-9778-4d52b45e443d.png">
+ <img src="https://user-images.githubusercontent.com/45159366/117586521-891b8b00-b0cd-11eb-8a12-cf0b042755d5.png">
   <br />
  Linux Guide
 </h1>
 
 #### A guide covering Linux including it's multiple Desktop enviroments, Window managers, Tools, and Applications that will make you a better and more efficient Linux user.
+
+ **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
-## Resources
+ 
+ # Table of Contents
+ 
+ 1. [Linux Learning Resources]()
+
+ 2. [Linux Destop Environments]()
+
+ 3. [Linux Windows Managers]()
+
+ 4. [Linux Companies]()
+
+ 5. [Linux Hardware Vendors]()
+
+ 6. [Linux in the Cloud]()
+
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/117586523-8a4cb800-b0cd-11eb-95e7-68b97bd43c00.png">
+  <br />
+</p>
+
+ 
+## Linux Learning Resources
+
+[Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
 
 [A Brief History of Linux](https://www.digitalocean.com/community/tutorials/brief-history-of-linux)
 
@@ -34,7 +60,7 @@
 
 [Free Software Foundation (FSF)](https://www.fsf.org/) is a nonprofit with a worldwide mission to promote computer user freedom.
 
-## Desktop Environments
+# Linux Desktop Environments
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/45159366/93250993-745a4380-f748-11ea-9b59-ec45e1817fc7.png">
@@ -138,7 +164,7 @@
 
 ![unity-desktop](https://user-images.githubusercontent.com/45159366/62761607-e9ceed00-ba3b-11e9-900a-591c53152e1f.png?raw=true "unity-desktop")
 
-## Windows mangers
+# Linux Windows Mangers
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/45159366/58378567-d804a000-7f4a-11e9-9b60-db6a0136261f.png">
@@ -171,7 +197,7 @@
 
 ![bspwm](https://user-images.githubusercontent.com/45159366/60765269-d7cce980-a04c-11e9-9a69-3ee236c07a8f.png?raw=true "image")
 
-## Linux Companies
+# Linux Companies
 
 [Red Hat](https://www.redhat.com/en) makers of Red Hat Enterprise Linux and sponsors to the [Fedora Project](https://getfedora.org/).
 
@@ -183,7 +209,7 @@
 
 [System76](https://system76.com) makers of [Pop!_OS](https://pop.system76.com/)
 
-## Linux Hardware Vendors
+# Linux Hardware Vendors
 
 [System76](https://system76.com)
 
@@ -197,7 +223,7 @@
 
 [HP](https://www8.hp.com/us/en/campaigns/ubuntu/index.html)
 
-## Linux in the Cloud
+# Linux in the Cloud
 
 [Amazon Linux 2](https://aws.amazon.com/amazon-linux-2/) a next generation of Amazon Linux, a Linux server operating system from Amazon Web Services (AWS). It provides a secure, stable, and high performance execution environment to develop and run cloud and enterprise applications. With Amazon Linux 2, you get an application environment that offers long term support with access to the latest innovations in the Linux ecosystem.
 

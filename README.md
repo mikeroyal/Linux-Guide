@@ -11,17 +11,17 @@
  
  # Table of Contents
  
- 1. [Linux Learning Resources]()
+ 1. [Linux Learning Resources](https://github.com/mikeroyal/Linux-Guide#linux-learning-resources)
 
- 2. [Linux Destop Environments]()
+ 2. [Linux Destop Environments](https://github.com/mikeroyal/Linux-Guide#linux-desktop-environments)
 
- 3. [Linux Windows Managers]()
+ 3. [Linux Windows Managers](https://github.com/mikeroyal/Linux-Guide#linux-window-managers)
 
- 4. [Linux Companies]()
+ 4. [Linux Companies](https://github.com/mikeroyal/Linux-Guide#linux-companies)
 
- 5. [Linux Hardware Vendors]()
+ 5. [Linux Hardware Vendors](https://github.com/mikeroyal/Linux-Guide#linuxhardware-vendors)
 
- 6. [Linux in the Cloud]()
+ 6. [Linux in the Cloud](https://github.com/mikeroyal/Linux-Guide#linux-in-the-cloud)
 
  
  <p align="center">
@@ -61,6 +61,8 @@
 [Free Software Foundation (FSF)](https://www.fsf.org/) is a nonprofit with a worldwide mission to promote computer user freedom.
 
 # Linux Desktop Environments
+
+[Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/45159366/93250993-745a4380-f748-11ea-9b59-ec45e1817fc7.png">
@@ -164,7 +166,9 @@
 
 ![unity-desktop](https://user-images.githubusercontent.com/45159366/62761607-e9ceed00-ba3b-11e9-900a-591c53152e1f.png?raw=true "unity-desktop")
 
-# Linux Windows Mangers
+# Linux Windows Managers
+
+[Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/45159366/58378567-d804a000-7f4a-11e9-9b60-db6a0136261f.png">
@@ -199,6 +203,8 @@
 
 # Linux Companies
 
+[Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
+
 [Red Hat](https://www.redhat.com/en) makers of Red Hat Enterprise Linux and sponsors to the [Fedora Project](https://getfedora.org/).
 
 [Canonical](https://canonical.com) makers of Ubuntu Desktop and Server.
@@ -210,6 +216,8 @@
 [System76](https://system76.com) makers of [Pop!_OS](https://pop.system76.com/)
 
 # Linux Hardware Vendors
+
+[Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
 
 [System76](https://system76.com)
 
@@ -224,6 +232,8 @@
 [HP](https://www8.hp.com/us/en/campaigns/ubuntu/index.html)
 
 # Linux in the Cloud
+
+[Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
 
 [Amazon Linux 2](https://aws.amazon.com/amazon-linux-2/) a next generation of Amazon Linux, a Linux server operating system from Amazon Web Services (AWS). It provides a secure, stable, and high performance execution environment to develop and run cloud and enterprise applications. With Amazon Linux 2, you get an application environment that offers long term support with access to the latest innovations in the Linux ecosystem.
 
@@ -261,3 +271,14 @@
 
 [DigitalOcean Marketplace](https://marketplace.digitalocean.com/)
 
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Linux-Guide/pulls).
+
+
+## License
+
+[Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).

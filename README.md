@@ -271,6 +271,8 @@
 
 [DigitalOcean Marketplace](https://marketplace.digitalocean.com/)
 
+[Linode](https://linode.com/)
+
 
 ## Contribute
 

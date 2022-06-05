@@ -505,7 +505,7 @@ Unsnap running in the terminal. Credit: [Alan Pope](https://github.com/popey/)
   
 </p>
 
-# Getting Started with Pop!_OS
+## Getting Started with Pop!_OS
 
 [Pop!_OS](https://pop.system76.com/) is an operating system(based on [Ubuntu](https://ubuntu.com/)) for STEM and creative professionals who use their computer as a tool to discover and create developed by [System76](https://system76.com/).
 
@@ -563,7 +563,7 @@ Unsnap running in the terminal. Credit: [Alan Pope](https://github.com/popey/)
   <br />
 </p>
 
-# Getting Started with FedoraCentOS Stream/RHEL
+## Getting Started with FedoraCentOS Stream/RHEL
 
 [Fedora](https://getfedora.org/) is a polished, easy to use operating system for laptop & desktop computers, with a complete set of tools for developers and makers of all kinds. The Fedora OS base is used to build/develop new versions of [Red Hat® Enterprise Linux® (RHEL)](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux) the world's leading enterprise Linux platform. The OS serves as the foundation for which you can scale existing apps and roll out emerging technologies across bare-metal, virtual, container, and all types of cloud environments.
 
@@ -682,7 +682,7 @@ Red Hat Enterprise Linux Desktop
   <br />
 </p>
 
-# Getting Started with SUSE/openSUSE
+### Getting Started with SUSE/openSUSE
 
 [SUSE](https://www.suse.com/) is a leading Linux OS most adaptable Linux operating system and the only open Kubernetes management platform thanks to their acquistion of [Rancher](https://rancher.com/). They also developer of [SUSE Linux Enterprise](https://www.suse.com/download/) and the primary sponsor of the community-supported [openSUSE Project](https://software.opensuse.org/), which develops the openSUSE Linux distribution.
 
@@ -740,7 +740,7 @@ Red Hat Enterprise Linux Desktop
   <br />
 </p>
 
-# Getting Started Arch Linux
+## Getting Started Arch Linux
 
 [Arch Linux](https://archlinux.org/) is an independently developed, x86-64 general purpose GNU/Linux distribution versatile enough to suit any role. Development focuses on simplicity, minimalism, and code elegance. Arch is installed as a minimal base system, configured by the user upon which their own ideal environment is assembled by installing only what is required or desired for their unique purposes.
 
@@ -750,11 +750,11 @@ Red Hat Enterprise Linux Desktop
 
 [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
 
-## Arch Linux User Repository (AUR)
+### Arch Linux User Repository (AUR)
 
 [Arch Linux User Repository (AUR)](https://aur.archlinux.org/) contains thousands build scripts, for compiling nearly 68,000 installable packages from source using the Arch Linux makepkg application.
 
-## Good Arch Linux Desktops for everyday use.
+### Good Arch Linux Desktops for everyday use.
 
 **[Manjaro Linux](https://manjaro.org/)**
 
@@ -805,7 +805,10 @@ ArcoLinux Desktop
   <br />
 </p>
 
-NixOS](https://nixos.org/) is a Linux distribution built on top of the [Nix package manager](https://nixos.wiki/wiki/Nix). It has tools dedicated to DevOps and deployment tasks.
+
+## Getting Started NixOS
+
+[NixOS](https://nixos.org/) is a Linux distribution built on top of the [Nix package manager](https://nixos.wiki/wiki/Nix). It has tools dedicated to DevOps and deployment tasks.
 
 [Nix Tour](https://nixcloud.io/tour/) is an interactive tour that uses the actual package manager to learn you the language by example, in the browser
 

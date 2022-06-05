@@ -29,9 +29,9 @@
 
 9. [Ubuntu](https://github.com/mikeroyal/Linux-Guide#ubuntu)
 
-10. [Pop!_OS](https://github.com/mikeroyal/Linux-Guide#pop!-os)
+10. [Pop!_OS](https://github.com/mikeroyal/Linux-Guide#pop_os)
 
-11. [Fedora/CentOS Stream/Red Hat Enterprise Linux](https://github.com/mikeroyal/Linux-Guide#fedora-centos-stream-rhel)
+11. [Fedora/CentOS Stream/Red Hat Enterprise Linux](https://github.com/mikeroyal/Linux-Guide#fedoracentos-streamrhel)
 
 12. [SUSE/openSUSE](https://github.com/mikeroyal/Linux-Guide#suseopensuse)
 

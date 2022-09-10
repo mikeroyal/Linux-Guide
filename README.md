@@ -43,28 +43,41 @@
  
     - [Running Windows Apps on your Linux system](https://github.com/mikeroyal/Linux-Guide#running-bottles-on-your-steam-deck)  
     
-8. [Linux Security Hardening](https://github.com/mikeroyal/Linux-Guide#Linux-Security-Hardening)   
+8. [Gaming](https://github.com/mikeroyal/Linux-Guide#gaming)
+
+     - [Steam](https://github.com/mikeroyal/Linux-Guide#steam)
+     - [ProtonDB](https://github.com/mikeroyal/Linux-Guide#protondb)
+     - [Lutris](https://github.com/mikeroyal/Linux-Guide#lutris)
+     - [GameHub](https://github.com/mikeroyal/Linux-Guide#gamehub)
+     - [Epic Games Store](https://github.com/mikeroyal/Linux-Guide#epic-games-store)
+     - [Game Streaming](https://github.com/mikeroyal/Linux-Guide#game-streaming)
+     - [Game Emulators](https://github.com/mikeroyal/Linux-Guide#game-emulators)
+     - [Graphics Performance](https://github.com/mikeroyal/Linux-Guide#graphics-performance)
+     - [Performance Benchmarks](https://github.com/mikeroyal/Linux-Guide#performance-benchmarks)
+     - [WINE](https://github.com/mikeroyal/Linux-Guide#wine)
+    
+9. [Linux Security Hardening](https://github.com/mikeroyal/Linux-Guide#Linux-Security-Hardening)   
  
    - [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Linux-Guide#Security Standards-Frameworks-and-Benchmarks)
    - [Security Tools](https://github.com/mikeroyal/Linux-Guide#security-tools)
  
-9. [File systems](https://github.com/mikeroyal/Linux-Guide#file-systems) 
+10. [File systems](https://github.com/mikeroyal/Linux-Guide#file-systems) 
 
-10. [Debian](https://github.com/mikeroyal/Linux-Guide#debian)
+11. [Debian](https://github.com/mikeroyal/Linux-Guide#debian)
 
-11. [Ubuntu](https://github.com/mikeroyal/Linux-Guide#ubuntu)
+12. [Ubuntu](https://github.com/mikeroyal/Linux-Guide#ubuntu)
 
-12. [Pop!_OS](https://github.com/mikeroyal/Linux-Guide#pop_os)
+13. [Pop!_OS](https://github.com/mikeroyal/Linux-Guide#pop_os)
 
-13. [Linux Mint](https://github.com/mikeroyal/Linux-Guide#linux-mint)
+14. [Linux Mint](https://github.com/mikeroyal/Linux-Guide#linux-mint)
 
-14. [Fedora/CentOS Stream/Red Hat Enterprise Linux](https://github.com/mikeroyal/Linux-Guide#fedoracentos-streamrhel)
+15. [Fedora/CentOS Stream/Red Hat Enterprise Linux](https://github.com/mikeroyal/Linux-Guide#fedoracentos-streamrhel)
 
-15. [SUSE/openSUSE](https://github.com/mikeroyal/Linux-Guide#suseopensuse)
+16. [SUSE/openSUSE](https://github.com/mikeroyal/Linux-Guide#suseopensuse)
 
-16. [Arch Linux](https://github.com/mikeroyal/Linux-Guide#arch-linux)
+17. [Arch Linux](https://github.com/mikeroyal/Linux-Guide#arch-linux)
 
-17. [NixOS](https://github.com/mikeroyal/Linux-Guide#nixos)
+18. [NixOS](https://github.com/mikeroyal/Linux-Guide#nixos)
 
  
  <p align="center">

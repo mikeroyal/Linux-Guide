@@ -11,33 +11,60 @@
  
  # Table of Contents
  
- 1. [Linux Learning Resources](https://github.com/mikeroyal/Linux-Guide#linux-learning-resources)
+1. [Linux Learning Resources](https://github.com/mikeroyal/Linux-Guide#linux-learning-resources)
 
- 2. [Linux Destop Environments](https://github.com/mikeroyal/Linux-Guide#linux-desktop-environments)
+2. [Linux Destop Environments](https://github.com/mikeroyal/Linux-Guide#linux-desktop-environments)
 
- 3. [Linux Window Managers](https://github.com/mikeroyal/Linux-Guide#linux-window-managers)
+3. [Linux Window Managers](https://github.com/mikeroyal/Linux-Guide#linux-window-managers)
 
- 4. [Linux Companies](https://github.com/mikeroyal/Linux-Guide#linux-companies)
+4. [Linux Companies](https://github.com/mikeroyal/Linux-Guide#linux-companies)
 
- 5. [Linux Hardware Vendors](https://github.com/mikeroyal/Linux-Guide#linux-hardware-vendors)
+5. [Linux Hardware Vendors](https://github.com/mikeroyal/Linux-Guide#linux-hardware-vendors)
 
- 6. [Linux in the Cloud](https://github.com/mikeroyal/Linux-Guide#linux-in-the-cloud)
+6. [Linux in the Cloud](https://github.com/mikeroyal/Linux-Guide#linux-in-the-cloud)
  
- 7. [Getting Software](https://github.com/mikeroyal/Linux-Guide#getting-software)
+7. [Getting Software](https://github.com/mikeroyal/Linux-Guide#getting-software)
 
-8. [Debian](https://github.com/mikeroyal/Linux-Guide#debian)
+    - [Microsoft Office Alternatives](https://github.com/mikeroyal/Windows-11-Guide#microsoft-office-alternatives)
 
-9. [Ubuntu](https://github.com/mikeroyal/Linux-Guide#ubuntu)
+    - [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Linux-Guide#secure--privacy-focused-web-browsers)
+         * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Windows-11-Guide#privacy--security-focused-browser-extensions)
+         * [Privacy-focused Search Engines](https://github.com/mikeroyal/Linux-Guide#privacy-focused-search-engines)
+                 
+    - [Backups](https://github.com/mikeroyal/Linux-Guide#)
+ 
+    - [Storage Health](https://github.com/mikeroyal/Linux-Guide#)
+         
+    - [Improving Battery Life](https://github.com/mikeroyal/Linux-Guide#improving-battery-life)
 
-10. [Pop!_OS](https://github.com/mikeroyal/Linux-Guide#pop_os)
+    - [Copy/Transfer files to your Linux System](https://github.com/mikeroyal/Linux-Guide#copytransfer-files-to-your-steam-deck)
+     
+    - [Running Android Apps on your Linux system](https://github.com/mikeroyal/Linux-Guide#running-android-apps-on-your-steam-deck)   
+ 
+    - [Running Windows Apps on your Linux system](https://github.com/mikeroyal/Linux-Guide#running-bottles-on-your-steam-deck)  
+    
+8. [Linux Security Hardening](https://github.com/mikeroyal/Linux-Guide#Linux-Security-Hardening)   
+ 
+   - [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Linux-Guide#Security Standards-Frameworks-and-Benchmarks)
+   - [Security Tools](https://github.com/mikeroyal/Linux-Guide#security-tools)
+ 
+9. [File systems](https://github.com/mikeroyal/Linux-Guide#file-systems) 
 
-11. [Fedora/CentOS Stream/Red Hat Enterprise Linux](https://github.com/mikeroyal/Linux-Guide#fedoracentos-streamrhel)
+10. [Debian](https://github.com/mikeroyal/Linux-Guide#debian)
 
-12. [SUSE/openSUSE](https://github.com/mikeroyal/Linux-Guide#suseopensuse)
+11. [Ubuntu](https://github.com/mikeroyal/Linux-Guide#ubuntu)
 
-13. [Arch Linux](https://github.com/mikeroyal/Linux-Guide#arch-linux)
+12. [Pop!_OS](https://github.com/mikeroyal/Linux-Guide#pop_os)
 
-14. [NixOS](https://github.com/mikeroyal/Linux-Guide#nixos)
+13. [Linux Mint](https://github.com/mikeroyal/Linux-Guide#linux-mint)
+
+14. [Fedora/CentOS Stream/Red Hat Enterprise Linux](https://github.com/mikeroyal/Linux-Guide#fedoracentos-streamrhel)
+
+15. [SUSE/openSUSE](https://github.com/mikeroyal/Linux-Guide#suseopensuse)
+
+16. [Arch Linux](https://github.com/mikeroyal/Linux-Guide#arch-linux)
+
+17. [NixOS](https://github.com/mikeroyal/Linux-Guide#nixos)
 
  
  <p align="center">
@@ -336,6 +363,500 @@
 
  <img src="https://user-images.githubusercontent.com/45159366/106686382-0b505c80-657f-11eb-9d74-9a94ec0d0693.png">
 
+## Microsoft Office Alternatives
+[Back to the Top](#table-of-contents)
+
+[OnlyOffice](https://www.onlyoffice.com/) is a secure offline/online office suite highly compatible with MS Office formats  for Windows, Mac and Linux.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158472597-9ca73786-4e28-497f-9c6d-0a0040e8c3da.png">
+  <br />
+  OnlyOffice
+</p>
+
+[FreeOffice](https://www.freeoffice.com/) is a secure office suite highly compatible with MS Office formats for Windows, Mac and Linux.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266331-321a1004-14cb-473f-a01f-9a9a6e67623a.png">
+  <br />
+  FreeOffice
+</p>
+
+[LibreOffice](https://www.libreoffice.org/) is a free and open-source office productivity software suite similar to Microsoft Office.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158470268-2834d32d-72ef-4e5e-8cd6-02db51a5dcfa.png">
+  <br />
+  LibreOffice
+</p>
+         
+         
+## Secure & Privacy Focused Web Browsers
+[Back to the Top](#table-of-contents)
+
+[Mozilla Firefox](https://www.mozilla.org/firefox/) is a free and open-source web browser developed by the Mozilla Foundation.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266387-04609c3f-1324-4c21-9186-5ed338835260.png">
+  <br />
+  Firefox
+</p>
+
+[LibreWolf](https://librewolf.net/) is designed to increase protection against tracking and fingerprinting techniques, while also including a few security improvements. It remove all the telemetry, data collection and annoyances, as well as disabling anti-freedom features like DRM.
+
+<p align="center">
+ <img src="">
+  <br />
+  LibreWolf
+</p>
+
+[Brave](https://brave.com/) is a fast, private and secure web browser for PC, Mac and mobile. It comes with [Brave Search](https://brave.com/search/), which is a private search engine that puts you first, not big tech for those that don't want to use Google Search.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266393-8891913c-5acd-4a3a-98cf-ce214282126d.png">
+  <br />
+  Brave
+</p>
+
+[Ungoogled-Chromium](https://github.com/ungoogled-software/ungoogled-chromium) is a lightweight approach to removing Google web service dependency.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/173683899-a91b5b02-533f-4ad2-ba84-c3a70108e0dd.png">
+  <br />
+ Ungoogled-Chromium
+</p>
+
+[Vivaldi](https://vivaldi.com/) is a fast, private and secure web browser for PC, Mac and mobile. It comes with built-in features like Notes, Screen Capture, Image Properties and (a lot) more.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/158266396-25f48ceb-9868-4d8f-80a3-30bbd0bbf092.png">
+  <br />
+  Vivaldi
+</p>
+
+[Ghostery Dawn](https://www.ghostery.com/dawn) is a fast, private and secure web browser for PC, Mac and mobile. It comes with the complete Ghostery Privacy Suite including [Ghostery Glow](https://www.ghostery.com/glow) a private search engine that does not log your search history, which means you get served objective results, not results that are filtered by the likelihood you’ll click on them.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/169711128-745e445d-0c1e-46d8-a7cf-12b0d6fcbda5.png">
+  <br />
+  Ghostery Dawn
+</p>
+
+### Privacy & Security Focused Browser extensions
+
+[Back to the Top](#table-of-contents)
+
+[UBlock Origin](https://ublockorigin.com/) is a free and open-source, cross-platform browser extension for content filtering primarily aimed at neutralizing privacy invasion in an efficient, user-friendly method.
+
+ * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+ * [Chrome extension](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+
+[Privacy Badger](https://privacybadger.org/) is a browser extension that automatically learns to block invisible trackers.
+
+ * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+ * [Chrome extension](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp)
+
+[DuckDuckGo Privacy Essentials](https://duckduckgo.com/app) is an extension that seamlessly helps prevent your personal information from being exposed during everyday online activity. 
+
+ * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
+ * [Chrome extension](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg?hl=fr)
+
+[Ghostery](https://www.ghostery.com/ghostery-browser-extension) is a comprehensive privacy protection Ad Blocker browser extension.
+
+ * [Firefox extension](https://www.ghostery.com/ghostery-ad-blocker-firefox)
+ * [Chrome extension](https://www.ghostery.com/ghostery-ad-blocker-chrome)
+
+[HTTPS Everywhere](https://www.eff.org/https-everywhere)  is an extension created by EFF and the Tor Project which automatically switches thousands of sites from insecure "http" to secure "https".
+
+ * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)
+ * [Chrome extension](https://chrome.google.com/webstore/detail/https-everywhere/gcbommkclmclpchllfjekcdonpmejbdp?hl=en)
+
+[CleanURLs](https://gitlab.com/KevinRoebert/ClearUrls) is an extension will automatically remove tracking elements from URLs to help protect your privacy when browsing through the Internet.
+
+ * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
+ * [Chrome extension](https://chrome.google.com/webstore/detail/clearurls/lckanjgmijmafbedllaakclkaicjfmnk/)
+
+**PixelBlock** is an Gmail extension that blocks email tracking attempts used to detect when you open and read emails. 
+
+ * [Chrome extension](https://chrome.google.com/webstore/detail/pixelblock/jmpmfcjnflbcoidlgapblgpgbilinlem/)
+
+[Sitejabber](https://www.sitejabber.com/) is an extension for consumers to find trustworthy online businesses and avoid scams.
+
+[Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/sitejabber/)
+
+[Chrome extension](https://chrome.google.com/webstore/detail/sitejabber-ratings-review/ckiddbafgcfifpioacgfijgicacanflo)
+
+[1Password](https://1password.com/) is a password manager that provides a place for users to store various passwords, software licenses, and other sensitive information in a virtual vault that is locked with a PBKDF2-guarded master password.
+
+ * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/1password-x-password-manager/)
+ * [Chrome extension](https://chrome.google.com/webstore/detail/1password-%E2%80%93-password-mana/aeblfdkhhhdcdjpifhhbdiojplfjncoa?hl=en)
+
+[Bitwarden](https://bitwarden.com/) is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault.
+
+ * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/)
+ * [Chrome extension](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
+
+[Guardio](https://guard.io/) is a lightweight extension designed to help you browse quickly and securely. It will clean your browser, speed it up, and protect your private information.
+
+ * [Chrome extension](https://chrome.google.com/webstore/detail/guardio-protection-for-ch/gjfpmkejnolcfklaaddjnckanhhgegla)
+
+[OneTab](https://www.one-tab.com/) is an extension that converts your tabs to a list and speeds up your browser.
+
+ * [Firefox extension](https://addons.mozilla.org/en-US/firefox/addon/onetab/)
+ * [Chrome extension](https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall)
+
+### Privacy-focused Search Engines
+
+[Back to the Top](#table-of-contents)
+
+ * [Brave Search](https://brave.com/search/)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187009061-21142683-0943-4ef2-9ca1-a66831410ae4.png">
+  <br />
+
+</p>
+
+ * [Ghostery Glow](https://www.ghostery.com/glow)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187009065-2d360d4f-9712-4f80-9da2-e8808773ba7f.png">
+  <br />
+
+</p>
+
+ * [DuckDuckGo](https://duckduckgo.com/)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187009064-2d753a92-6e80-48a5-9e88-deb9d886162e.png">
+  <br />
+
+</p>
+
+ * [Startpage](https://www.startpage.com/)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187009074-7e0ae42e-84b2-4815-9280-d56ff289462b.png">
+  <br />
+
+</p>
+
+ * [Qwant](https://www.qwant.com/)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187009070-b652dab1-0f4a-4020-b231-bc7da3897c04.png">
+  <br />
+
+</p>
+
+ * [Ecosia](https://www.ecosia.org/)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187009066-d81594fe-873f-4aed-ac0f-2f9f6673ebc9.png">
+  <br />
+
+</p>
+
+ * [Swisscows](https://swisscows.com/)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187009076-74c38325-077d-4511-be75-981646dd11c8.png">
+  <br />
+
+</p>
+
+ * [searX](https://searx.info/)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187009072-54539257-92f9-4f7e-9515-3cb14a2e8695.png">
+  <br />
+
+</p>
+
+ * [Mojeek](https://www.mojeek.com/)
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/187009069-afd5a4e2-aea5-4143-87ba-8882c31476a8.png">
+  <br />
+
+</p>
+
+## Backups
+
+[Back to the Top](#table-of-contents)
+
+[TimeShift](https://github.com/linuxmint/timeshift) is a system restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. 
+
+[Vorta](https://vorta.borgbase.com/) is a backup client for macOS and Linux desktops. It integrates the mighty Borg Backup with your favorite desktop environment to protect your data from disk failure, ransomware and theft. [Available as a Flatpak on Flathub](https://flathub.org/apps/details/com.borgbase.Vorta)
+
+[Pika Backup](https://apps.gnome.org/app/org.gnome.World.PikaBackup/) is a backup tool that is designed to save your personal data and does not support complete system recovery. Pika Backup is powered by the well-tested BorgBackup software. [Available as a Flatpak on Flathub](https://flathub.org/apps/details/org.gnome.World.PikaBackup)
+
+## Storage Disk Health 
+
+[Back to the Top](#table-of-contents)
+
+[Dirstat-rs](https://github.com/scullionw/dirstat-rs) is a fast, cross-platform disk usage CLI, similar to [Windirstat](https://windirstat.net/). 
+
+[Dutree](https://github.com/nachoparker/dutree) is a tool to analyze file system usage written in Rust.
+
+[Scrutiny](https://github.com/AnalogJ/scrutiny) is a WebUI tool for smartd [S.M.A.R.T monitoring](https://www.crucial.com/articles/about-ssd/smart-and-ssds), Historical Trends & Real World Failure Thresholds.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/183272245-468ac924-ebd6-475d-94af-6dfa7b97e7cb.png">
+<br />
+Scrutiny UI
+</p>
+
+
+## Improving Battery Life
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+
+* [Laptop Power Management tutorial by Chris Titus Tech](https://christitus.com/laptop-power-management/)
+
+[auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) is an automatic CPU speed & power optimizer for Linux based on active monitoring of laptop's battery state, CPU usage, CPU temperature and system load. Ultimately allowing you to improve battery life without making any compromises. 
+
+[TLP](https://linrunner.de/tlp/index.html) is a free open source, feature-rich and command line tool for advanced power management, which helps to optimize battery life in laptops powered by Linux. 
+
+[TLPUI](https://github.com/d4nj1/TLPUI) is a GTK user interface for TLP written in Python.
+      
+
+ 
+## Tools to Copy/Transfer files to your Linux System
+ [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+ 
+[KDE Connect](https://kdeconnect.kde.org/) is a tool that lets you easily link up your phone to your computer, your computer to your tablet; or your computer to your Steam Deck device. It can be used to share files across devices, read and send SMS directly from your laptop, and lock up your computer remotely.
+
+[Warpinator](https://github.com/linuxmint/warpinator) is a free, open-source tool for sending and receiving files between computers that are on the same network. [Warpinator Flatpak](https://flathub.org/apps/details/org.x.Warpinator)
+
+[FileZilla Client](https://filezilla-project.org/) is a fast and reliable cross-platform FTP, FTPS and SFTP client with lots of useful features and an intuitive graphical user interface. [FileZilla Flatpak](https://flathub.org/apps/details/org.filezillaproject.Filezilla)
+
+[Dragit](https://github.com/sireliah/dragit) is an application for intuitive file sharing between devices. It's useful for when you want to send file from one computer to another with minimal effort. Dragit automatically detects devices in the local network with help of mDNS protocol and allows you to send file immediately. [Dragit Flatpak](https://flathub.org/apps/details/com.sireliah.Dragit)
+
+[WinFsp](https://github.com/winfsp/winfsp) is a set of software components for Windows computers that allows the creation of user mode file systems. In this sense it is similar to FUSE (Filesystem in Userspace), which provides the same functionality on UNIX-like computers.
+
+[SSHFS-Win](https://github.com/winfsp/sshfs-win) is a minimal port of SSHFS to Windows. Looking under the hood it uses Cygwin for the POSIX environment and WinFsp for the FUSE (Filesystem in Userspace) functionality.
+
+[RiftShare](https://riftshare.app) is a cross platform (Windows, MacOS, Linux) file sharing tool that supports fully encrypted transfers both on the local network and off network using a simple passphrase. RiftShare uses [magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) under the hood and is compatible with other magic-wormhole clients. It is also fully open source and licensed under the GPLv3. [RiftShare Flatpak](https://flathub.org/apps/details/app.riftshare.RiftShare)
+
+[SyncThing](https://syncthing.net/) is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Works with Mac OS X, Windows, Linux, FreeBSD, Solaris, OpenBSD, Android, and many others. Downloadable in Discover. It's also open source and licensed under the MPL-2.0 license.
+
+[Usermode FTP Server](https://gitlab.com/ergoithz/umftpd) is a tool that let's you start an FTP server as user and transfer files with any FTP client. Allowing you to access your files directly with many file browsers' builtin FTP support: Windows File Explorer, Thunar, Gnome Files, Dolphin and many more. [Usermode FTP Server on FlatHub](https://flathub.org/apps/details/eu.ithz.umftpd)
+
+## Running Android Apps on your Linux System
+[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+
+[Waydroid](https://github.com/waydroid/waydroid) is a container-based approach to boot a full Android system on a regular Linux system. Make sure to checkout the [Waydroid Arch wiki page](https://wiki.archlinux.org/title/Waydroid). 
+
+[Anbox](https://github.com/anbox) is a container-based software for running a full Android system on Linux distributions. Make sure to checkout the [Anbox Arch wiki page](https://wiki.archlinux.org/title/Anbox).
+
+
+## Running Windows Apps on your Linux System
+[Back to the Top](#table-of-contents)
+
+[Bottles](https://usebottles.com/) is a software tool that let's you run Windows software on Linux. It's built-in dependency installation system grants automatic software compatibility access. The download manager can download the official components such as: the runner (Wine, Proton), DXVK, dependencies, etc. Available on [FlatHub](https://flathub.org/apps/details/com.usebottles.bottles) or throught [KDE Discover](https://apps.kde.org/discover/) store.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/182049940-ccba08e7-b05d-4991-b36f-1e2596c390da.png">
+ </p>
+
+## Linux Security Hardening
+[Back to the Top](#table-of-contents)
+
+### Security Standards, Frameworks and Benchmarks 
+
+ * [Personal Security Checklist](https://github.com/Lissy93/personal-security-checklist) is a curated checklist of 300+ tips for protecting digital security and privacy in 2022.
+
+ * [Awesome Privacy](https://github.com/Lissy93/awesome-privacy) is acurated list of privacy & security-focused software and services. 
+
+ * [STIGs Benchmarks - Security Technical Implementation Guides](https://public.cyber.mil/stigs/)
+
+ * [CIS Benchmarks - CIS Center for Internet Security](https://www.cisecurity.org/cis-benchmarks/)
+
+ * [CIS Top 18 Critical Security Controls](https://www.cisecurity.org/controls/cis-controls-list)
+
+ * [OSSTMM (Open Source Security Testing Methodology Manual) PDF](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834704/osstmm.en.2.1.pdf)
+
+ * [NIST Technical Guide to Information Security Testing and Assessment (PDF)](https://github.com/mikeroyal/Open-Source-Security-Guide/files/8834705/nistspecialpublication800-115.pdf)
+
+ * [NIST - Current FIPS](https://www.nist.gov/itl/current-fips)
+
+ * [ISO Standards Catalogue](https://www.iso.org/standards.html)
+
+ * [Common Criteria for Information Technology Security Evaluation (CC)](https://www.commoncriteriaportal.org/cc/) is an international standard (ISO / IEC 15408) for computer security. It allows an objective evaluation to validate that a particular product satisfies a defined set of security requirements. 
+
+ * [ISO 22301](https://www.iso.org/en/contents/data/standard/07/51/75106.html) is the international standard that provides a best-practice framework for implementing an optimised BCMS (business continuity management system).
+
+ * [ISO27001](https://www.iso.org/isoiec-27001-information-security.html) is the international standard that describes the requirements for an ISMS (information security management system). The framework is designed to help organizations manage their security practices in one place, consistently and cost-effectively.
+
+ * [ISO 27701](https://www.iso.org/en/contents/data/standard/07/16/71670.html) specifies the requirements for a PIMS (privacy information management system) based on the requirements of ISO 27001. It is extended by a set of privacy-specific requirements, control objectives and controls. Companies that have implemented ISO 27001 will be able to use ISO 27701 to extend their security efforts to cover privacy management.
+ 
+ * [SOC 2](https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report.html) is an auditing procedure that ensures your service providers securely manage your data to protect the interests of your company/organization and the privacy of their clients. 
+
+ * [NIST CSF](https://www.nist.gov/national-security-standards) is a voluntary framework primarily intended for critical infrastructure organizations to manage and mitigate cybersecurity risk based on existing best practice.
+
+ * [Landlock LSM(Linux Security Module)](https://www.kernel.org/doc/html/latest/security/landlock.html) is a framework to create scoped access-control (sandboxing). Landlock is designed to be usable by unprivileged processes while following the system security policy enforced by other access control mechanisms (DAC, LSM, etc.).
+ 
+### Security Tools
+
+[OpenSCAP](https://www.open-scap.org/) is U.S. standard maintained by [National Institute of Standards and Technology (NIST)](https://www.nist.gov/). It provides multiple tools to assist administrators and auditors with assessment, measurement, and enforcement of security baselines. OpenSCAP maintains great flexibility and interoperability by reducing the costs of performing security audits. Whether you want to evaluate DISA STIGs, NIST‘s USGCB, or Red Hat’s Security Response Team’s content, all are supported by OpenSCAP.
+
+[Open Vulnerability and Assessment Language](https://oval.mitre.org/) is a community effort to standardize how to assess and report upon the machine state of computer systems. OVAL includes a language to encode system details, and community repositories of content. Tools and services that use OVAL provide enterprises with accurate, consistent, and actionable information to improve their security.
+
+[OWASP](https://www.owasp.org/index.php/Main_Page) is an online community, produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.
+
+[OWASP Nettacker](https://github.com/OWASP/Nettacker) is a project created to automate information gathering, vulnerability scanning and eventually generating a report for networks, including services, bugs, vulnerabilities, misconfigurations, and other information. This software will utilize TCP SYN, ACK, ICMP, and many other protocols in order to detect and bypass Firewall/IDS/IPS devices. 
+
+[OWASP Zed Attack Proxy (ZAP)](https://owasp.org/www-project-zap/) is a free, open-source penetration testing tool being maintained under the umbrella of the Open Web Application Security Project (OWASP). ZAP is designed specifically for testing web applications and is both flexible and extensible. Great for pentesters, devs, QA, and CI/CD integration. At its core, ZAP is what is known as a "man-in-the-middle proxy."
+
+[SELinux](https://github.com/SELinuxProject/selinux) is a security enhancement to Linux which allows users and administrators more control over access control. Access can be constrained on such variables as which users and applications can access which resources. These resources may take the form of files. Standard Linux access controls, such as file modes (-rwxr-xr-x) are modifiable by the user and the applications which the user runs. Conversely, SELinux access controls are determined by a policy loaded on the system which may not be changed by careless users or misbehaving applications.
+
+[AppArmor](https://www.apparmor.net/) is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited. AppArmor supplements the traditional Unix discretionary access control (DAC) model by providing mandatory access control (MAC). It has been included in the mainline Linux kernel since version 2.6.36 and its development has been supported by Canonical since 2009.
+
+[Control Groups(Cgroups)](https://www.redhat.com/sysadmin/cgroups-part-one) is a Linux kernel feature that allows you to allocate resources such as CPU time, system memory, network bandwidth, or any combination of these resources for user-defined groups of tasks (processes) running on a system.
+
+[SpiderFoot](https://github.com/smicallef/spiderfoot) is an open source intelligence (OSINT) automation tool. It integrates with just about every data source available and utilises a range of methods for data analysis, making that data easy to navigate.
+
+[Lynis](https://cisofy.com/lynis/) is a security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation is optional.
+
+[Fail2Ban](http://www.fail2ban.org/) is an open source intrusion prevention software framework that scans log files like /var/log/auth.log and bans IP addresses conducting too many failed login attempts. It does this by updating system firewall rules to reject new connections from those IP addresses, for a configurable amount of time. 
+
+[Aircrack-ng](https://www.aircrack-ng.org/) is a network software suite consisting of a detector, packet sniffer, WEP and WPA/WPA2-PSK cracker and analysis tool for 802.11 wireless LANs. It works with any wireless network interface controller whose driver supports raw monitoring mode and can sniff 802.11a, 802.11b and 802.11g traffic.
+
+[Burp Suite](https://portswigger.net/burp) is a leading range of cybersecurity tools.
+
+[KernelCI](https://foundation.kernelci.org/) is a community-based open source distributed test automation system focused on upstream kernel development. The primary goal of KernelCI is to use an open testing philosophy to ensure the quality, stability and long-term maintenance of the Linux kernel.
+
+[Continuous Kernel Integration project](https://github.com/cki-project) helps find bugs in kernel patches before they are commited to an upstram kernel tree. We are team of kernel developers, kernel testers, and automation engineers.
+
+[Snowpatch](https://github.com/ruscur/snowpatch) is a continuous integration tool for projects using a patch-based, mailing-list-centric git workflow. This workflow is used by a number of well-known open source projects such as the Linux kernel.
+
+[Snort](https://www.snort.org/) is an open-source, free and lightweight network intrusion detection system (NIDS) software for Linux and Windows to detect emerging threats.
+
+[Wireshark](https://www.wireshark.org/) is a free and open-source packet analyzer. It is used for network troubleshooting, analysis, software and communications protocol development, and education. 
+
+[Tink](https://github.com/google/tink) is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and harder to misuse. 
+
+[OSSEC HIDS(Host Intrusion Detection System)](https://www.ossec.net/) is an open source security tool that performs log analysis, integrity checking, rootkit detection, time-based alerting and active response. In addition to its IDS functionality, it is commonly used as a SEM/SIM solution.
+
+[Scapy](https://scapy.net/) is a powerful interactive packet manipulation tool, packet generator, network scanner, network discovery tool, and packet sniffer.
+
+[Certgen](https://github.com/cilium/certgen) is a convenience tool to generate and store certificates for Hubble Relay mTLS.
+
+[syzkaller](https://github.com/google/syzkaller) is an unsupervised, coverage-guided kernel fuzzer.
+
+[SchedViz](https://github.com/google/schedviz) is a tool for gathering and visualizing kernel scheduling traces on Linux machines.
+
+[oss-fuzz](https://google.github.io/oss-fuzz/) aims to make common open source software more secure and stable by combining modern fuzzing techniques with scalable, distributed execution.
+
+[Wfuzz](https://github.com/xmendez/wfuzz) was created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
+
+[Nmap](https://nmap.org/) is a security scanner used to discover hosts and services on a computer network, thus building a "map" of the network. 
+
+[Acra](https://cossacklabs.com/acra) is a single database security suite with 9 strong security controls: application level encryption, searchable encryption, data masking, data tokenization, secure authentication, data leakage prevention, database request firewall, cryptographically signed audit logging, security events automation. It is designed to cover the most important data security requirements with SQL and NoSQL databases and distributed apps in a fast, convenient, and reliable way.
+
+[Netdata](https://github.com/netdata/netdata) is high-fidelity infrastructure monitoring and troubleshooting, real-time monitoring Agent collects thousands of metrics from systems, hardware, containers, and applications with zero configuration. It runs permanently on all your physical/virtual servers, containers, cloud deployments, and edge/IoT devices, and is perfectly safe to install on your systems mid-incident without any preparation.
+
+[Themis](https://cossacklabs.com/themis) is a free open-source high-level cryptographic library for mobile and backend platforms. Recommended by OWASP for application security, it allows protecting sensitive data (PII, locations, messages, etc.). While giving easy-to-use and hard-to-misuse API, Themis works to provide secure data storage, message exchange, socket connections, and authentication in apps across 15 platforms and languages.
+
+[Trivy](https://aquasecurity.github.io/trivy/) is a comprehensive security scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets.
+
+[Lynis](https://cisofy.com/lynis/) is a security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. 
+
+[RustScan](https://github.com/RustScan/RustScan) is a Modern Port Scanner.
+
+[gosec](https://github.com/securego/gosec) is a Golang Security Checker that inspects source code for security problems by scanning the Go AST.
+
+[Prowler](https://github.com/prowler-cloud/prowler) is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 240 controls covering CIS, PCI-DSS, ISO27001, GDPR, HIPAA, FFIEC, SOC2, AWS FTR, ENS and custom security frameworks. 
+
+[eNgine](https://github.com/yogeshojha/rengine) is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive UI. 
+
+[Osmedeus](https://github.com/j3ssie/osmedeus) is a Workflow Engine for Offensive Security. It was designed to build a foundation with the capability and flexibility that allows you to build your own reconnaissance system and run it on a large number of targets.
+
+[Terrascan](https://runterrascan.io/) is a static code analyzer for Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure. 
+
+[Sliver](https://github.com/BishopFox/sliver) is an open source cross-platform adversary emulation/red team framework, it can be used by organizations of all sizes to perform security testing. Sliver's implants support C2 over Mutual TLS (mTLS), WireGuard, HTTP(S), and DNS and are dynamically compiled with per-binary asymmetric encryption keys.
+
+[Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings) is a list of useful payloads and bypass for Web Application Security and Pentest/CTF. 
+
+[TheHive](https://thehive-project.org/) is a scalable 3-in-1 open source and free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly. It is the perfect companion to [MISP](http://www.misp-project.org/). 
+
+[MITRE ATT&CK®](https://attack.mitre.org/) is a global knowledge base of adversary tactics and techniques based on real-world security observations. It is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
+
+[CALDERA™](https://caldera.mitre.org/) is a cyber security platform designed to easily automate adversary emulation, assist manual red-teams, and automate incident response.
+
+[Atomic Red Team™](https://github.com/redcanaryco/atomic-red-team) is a library of tests mapped to the [MITRE ATT&CK®](https://attack.mitre.org/) framework. Security teams can use Atomic Red Team to quickly, portably, and reproducibly test their environments.
+
+[OpenCTI](https://www.opencti.io/) is an open source platform allowing organizations to manage their cyber threat intelligence knowledge and observables. It has been created in order to structure, store, organize and visualize technical and non-technical information about cyber threats.
+
+[Amass](https://owasp.org/www-project-amass/) is an OWASP Project that performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques.
+
+[IVRE](https://ivre.rocks/) is a network recon framework. That let's you build your own, self-hosted and fully-controlled alternatives to Shodan, ZoomEye, Censys, and GreyNoise. IVRE can run your Passive DNS service, collect and analyse network intelligence from your sensors, and much more.
+
+[MISP](https://www.misp-project.org/) is an open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats about cyber security incidents analysis and malware analysis. MISP is designed by and for incident analysts, security and ICT professionals or malware reversers to support their day-to-day operations to share structured information efficiently.
+
+[Nikto](https://github.com/sullo/nikto) is an Open Source web server scanner which performs comprehensive tests against web servers for multiple items, including over 6400 potentially dangerous files/CGIs, checks for outdated versions of over 1200 servers, and version specific problems on over 270 servers.
+
+[eBPF](https://ebpf.io/) is a technology that can run sandboxed programs in the Linux kernel without changing kernel source code or loading kernel modules. By making the Linux kernel programmable, infrastructure software can leverage existing layers, making them more intelligent and feature-rich without continuing to add additional layers of complexity to the system.
+
+[Cilium](https://cilium.io/) uses eBPF to accelerate getting data in and out of L7 proxies such as Envoy, enabling efficient visibility into API protocols like HTTP, gRPC, and Kafka. 
+
+[Hubble](https://github.com/cilium/hubble) is a Network, Service & Security Observability for Kubernetes using eBPF.
+
+[Patchwork](https://github.com/getpatchwork/patchwork) is a web-based patch tracking system designed to facilitate the contribution and management of contributions to an open-source project. 
+
+[pfSense](https://www.pfsense.org/) is a free and open source firewall and router that also features unified threat management, load balancing, multi WAN, and more.
+
+[Emissary](https://github.com/NationalSecurityAgency/emissary) is a P2P based data-driven workflow engine that runs in a heterogeneous possibly widely dispersed, multi-tiered P2P network of compute resources. Workflow itineraries are not pre-planned as in conventional workflow engines, but are discovered as more information is discovered about the data.
+
+[MADCert](https://github.com/NationalSecurityAgency/MADCert) is a cross-platform tool that consists of a certificate generator, a file system certificate manager, and a command line interface for the purposes of testing.
+
+[Priam](https://github.com/Netflix/Priam) is a tool/process for backup/recovery, Token Management, and Centralized Configuration management for Cassandra.
+
+
+## File systems
+
+[Back to the Top](#table-of-contents)
+
+[GlusterFS](https://www.gluster.org/) is a free and open source scalable network filesystem. Gluster is a scalable network filesystem. Using common off-the-shelf hardware, you can create large, distributed storage solutions for media streaming, data analysis, and other data- and bandwidth-intensive tasks.
+
+[Ceph](https://ceph.io/) is a software-defined storage solution designed to address the object, block, and file storage needs of data centers adopting open source as the new norm for high-growth block storage, object stores and data lakes. Ceph provides enterprise scalable storage while keeping [CAPEX](https://corporatefinanceinstitute.com/resources/knowledge/modeling/how-to-calculate-capex-formula/) and [OPEX](https://www.investopedia.com/terms/o/operating_expense.asp) costs in line with underlying bulk commodity disk prices.
+
+[Hadoop Distributed File System (HDFS)](https://www.ibm.com/analytics/hadoop/hdfs) is a distributed file system that handles large data sets running on commodity hardware. It is used to scale a single Apache Hadoop cluster to hundreds (and even thousands) of nodes. HDFS is one of the major components of Apache Hadoop, the others being [MapReduce](https://www.ibm.com/analytics/hadoop/mapreduce) and [YARN](https://hadoop.apache.org/docs/current/hadoop-yarn/hadoop-yarn-site/YARN.html).
+
+[ZFS](https://docs.oracle.com/cd/E19253-01/819-5461/zfsover-2/) is an enterprise-ready open source file system and volume manager with unprecedented flexibility and an uncompromising commitment to data integrity.
+
+[OpenZFS](https://openzfs.org/wiki/Main_Page ) is an open-source storage platform. It includes the functionality of both traditional file systems and volume manager. It has many advanced features including:
+
+  - Protection against data corruption.
+  - Integrity checking for both data and metadata.
+  - Continuous integrity verification and automatic "self-healing" repair.
+
+[Btrfs](https://btrfs.wiki.kernel.org/index.php/Main_Page) is a modern copy on write (CoW) filesystem for Linux aimed at implementing advanced features while also focusing on fault tolerance, repair and easy administration. Its main features and benefits are:
+
+  - Snapshots which do not make the full copy of files
+  - RAID - support for software-based RAID 0, RAID 1, RAID 10
+  - Self-healing - checksums for data and metadata, automatic detection of silent data corruptions
+  
+[MergerFS](https://github.com/trapexit/mergerfs) is a union filesystem geared towards simplifying storage and management of files across numerous commodity storage devices. It is similar to mhddfs, unionfs, and aufs.
+
+**MergerFS Features**
+
+  - Configurable behaviors / file placement
+  - Ability to add or remove filesystems at will
+  - Resistance to individual filesystem failure
+  - Support for extended attributes (xattrs)
+  - Support for file attributes (chattr)
+  - Runtime configurable (via xattrs)
+  - Works with heterogeneous filesystem types
+  - Moving of file when filesystem runs out of space while writing
+  - Ignore read-only filesystems when creating files
+  - Turn read-only files into symlinks to underlying file
+  - Hard link copy-on-write / CoW
+  - Support for POSIX ACLs
+  
+[Bcachefs](https://bcachefs.org/) is an advanced new filesystem for Linux, with an emphasis on reliability and robustness and the complete set of features one would expect from a modern filesystem. Scalability has been tested to 50+ TB, will eventually scale far higher. 
+
+[Squashfs](https://www.kernel.org/doc/html/latest/filesystems/squashfs.html) is a compressed read-only filesystem for Linux. It uses zlib, lz4, lzo, or xz compression to compress files, inodes and directories. Inodes in the system are very small and all blocks are packed to minimize data overhead.
 
 #  Debian
 [Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
@@ -552,6 +1073,92 @@ Unsnap running in the terminal. Credit: [Alan Pope](https://github.com/popey/)
 ## Pop Shop
 
 <img src="https://user-images.githubusercontent.com/45159366/107091582-e21a1100-67b6-11eb-9043-1385d2d8afd9.png">
+
+# Linux Mint
+
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107585812-b8485c00-6bb3-11eb-9007-c99eb2c8aa8e.png">
+  <br />
+ 
+</p>
+
+### Getting Started with Linux Mint
+[Back to the Top](https://github.com/mikeroyal/Linux-Mint-Guide#table-of-contents)
+
+[Linux Mint](https://linuxmint.com/) is a modern, elegant, and comfortable open source operating system(based on Debian and Ubuntu), which is both powerful and easy to use for both new and advanced users. The flagsip version of Linux Mint uses the [Cinnamon desktop environment](https://cinnamon-spices.linuxmint.com/) similiar to Windows 7.
+
+<h2 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/157350295-4c6b8ab5-17d2-4e2f-91ca-a111bcdb2a34.png">
+  <br />
+  Linux Mint Desktop 
+</h2>
+
+[Linux Mint MATE](https://linuxmint.com/edition.php?id=285) uses the [MATE Desktop environment](https://mate-desktop.org/).
+
+<h2 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/157350307-4683a0f4-2731-45c0-bda5-d50bac1c7153.png">
+  <br />
+  Linux Mint Desktop with MATE
+</h2>
+
+[Linux Mint Xfce](https://linuxmint.com/edition.php?id=286) uses the [Xfce Desktop environment](https://xfce.org/).
+
+<h2 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/157350301-1bba5a9f-f404-40c1-b4fe-66f67a0b4268.png">
+  <br />
+  Linux Mint Desktop with Xfce
+</h2>
+
+[Linux Mint Debian Edition (LMDE)](https://www.linuxmint.com/download_lmde.php) uses [Debian Bullseye](https://www.debian.org/) as the base for a very stable and rock solid user experience with the Cinnamon desktop.
+
+<h2 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/157350295-4c6b8ab5-17d2-4e2f-91ca-a111bcdb2a34.png">
+  <br />
+  Linux Mint Debian Edition (LMDE)
+</h2>
+
+[Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
+
+<h2 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/157350348-e43ea5a2-2346-4b0b-acc0-fc3352c3d820.png">
+  <br />
+  Etcher UI
+</h2>
+
+### Installing KDE Plasma on Linux Mint
+
+```sh
+sudo apt install kde-plasma-desktop
+```
+OR
+
+```sh
+sudo apt install kde-standard
+```
+<h1 align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/157352628-34ee2dfc-dc4b-489e-a70e-4f58b0fa1f79.png">
+  <br />
+  KDE Plasma Desktop on Linux Mint
+</h1>
+
+### Enable Firewall
+
+```sh
+sudo systemctl enable ufw
+sudo systemctl start ufw
+```
+### Getting Software
+
+
+#### Linux Mint Software Center
+
+<img src="https://user-images.githubusercontent.com/45159366/157350978-ecce979a-7a59-43e2-a014-4ff8bd02d1b2.png">
+
+**Note 1: All this software is also available in other popular Linux distributions such as [Debian](https://www.debian.org/), [elementary OS](https://elementary.io/), [Pop!_OS](https://pop.system76.com/), [Fedora](https://getfedora.org), [Manjaro Linux](https://manjaro.org/), [EndeavourOS](https://endeavouros.com/) and [Arch Linux](https://archlinux.org/).**
+
+**Note 2: For new users not comfortable with using the command-line checkout the Essential Apps section to get started. Also, if you scroll down further you'll see other easy ways to get software applications through Flathub, Snap Store, and AppImages.**
 
 
 # Fedora/CentOS Stream/RHEL
@@ -810,93 +1417,232 @@ ArcoLinux Desktop
 
 [NixOS](https://nixos.org/) is a Linux distribution built on top of the [Nix package manager](https://nixos.wiki/wiki/Nix). It has tools dedicated to DevOps and deployment tasks.
 
-[Nix Tour](https://nixcloud.io/tour/) is an interactive tour that uses the actual package manager to learn you the language by example, in the browser
+[Nix Tour](https://nixcloud.io/tour/) is an interactive tour that uses the actual package manager to learn you the language by example, in the browser.
 
 [Nix](https://nixos.wiki/wiki/Nix) is a package manager and build system that parses reproducible build instructions specified in the [Nix Expression Language](https://nixos.wiki/wiki/Nix_Expression_Language), is a pure functional language with lazy evaluation. Nix expressions are pure functions taking dependencies as arguments and producing derivation specifying a reproducible build environment for the package. Nix stores the results of the build in unique addresses specified by a hash of the complete dependency tree, creating an immutable package store that allows for atomic upgrades, rollbacks and concurrent installation of different versions of a package, essentially eliminating [dependency hell](https://en.wikipedia.org/wiki/Dependency_hell).
 
 [Nix Expression Language](https://nixos.wiki/wiki/Nix_Expression_Language) is a pure, lazy, functional language. Purity means that operations in the language don't have side-effects (for instance, there is no variable assignment). The language is not a full-featured, general purpose language. Its main job is to describe packages, compositions of packages, and the variability within packages.
 
-[Nixpkgs](https://nixos.wiki/wiki/Nixpkgs) is the largest repository of [Nix](https://nixos.wiki/wiki/Nix) packages(over 60,000 packages) and [NixOS](https://nixos.wiki/wiki/NixOS) modules. The repository is [hosted on GitHub](https://github.com/nixos/nixpkgs) and maintained by the community, with official backing from the [NixOS Foundation](https://nixos.org/). Additionally, checkout [Language-specific package helpers](https://nixos.wiki/wiki/Language-specific_package_helpers) and [Alternative Package Sets](https://nixos.wiki/wiki/Alternative_Package_Sets).
+[Nixpkgs](https://nixos.wiki/wiki/Nixpkgs) is the largest repository of [Nix](https://nixos.wiki/wiki/Nix) packages(over 80,000 packages) and [NixOS](https://nixos.wiki/wiki/NixOS) modules. The repository is [hosted on GitHub](https://github.com/nixos/nixpkgs) and maintained by the community, with official backing from the [NixOS Foundation](https://nixos.org/). Additionally, checkout [Language-specific package helpers](https://nixos.wiki/wiki/Language-specific_package_helpers) and [Alternative Package Sets](https://nixos.wiki/wiki/Alternative_Package_Sets).
 
 [NixOS Packages Search](https://search.nixos.org/packages) is a tool for searching through NixOS packages.
 
-[NixOS on M1 Macs](https://github.com/tpwrules/nixos-m1)
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/173939766-8972583c-855e-4a9b-b9f1-761b60ea255e.png">
+  <br />
+  NixOS Packages Search
+</p>
 
-[NixOS Wiki](https://nixos.wiki/)
+## NixOS Developer Resources
+[Back to the Top](https://github.com/mikeroyal/NixOS-Guide#table-of-contents)
 
-[NixOS Pills - Developer Guides](https://nixos.org/guides/nix-pills/)
+ - [NixOS Wiki](https://nixos.wiki/)
 
-[Cheatsheet - NixOS Wiki](https://nixos.wiki/index.php?title=Cheatsheet&useskin=vector)
+ - [NixOS Pills - Developer Guides](https://nixos.org/guides/nix-pills/)
+ 
+ - [NixOS Learn](https://nixos.org/learn.html)
 
-[What Is Nix — Developer Tooling | Shopify Engineering](https://shopify.engineering/what-is-nix)
+ - [Nix Package Manager Manual](https://nixos.org/manual/nix/stable/#chap-installation)
 
-[NixOS Learn](https://nixos.org/learn.html)
+ - [Home Manager - NixOS Wiki](https://nixos.wiki/wiki/Home_Manager)
+ 
+ - [What Is Nix — Developer Tooling | Shopify Engineering](https://shopify.engineering/what-is-nix)
 
-[Nix Package Manager Manual](https://nixos.org/manual/nix/stable/#chap-installation)
+ - [Cheatsheet - NixOS Wiki](https://nixos.wiki/index.php?title=Cheatsheet&useskin=vector)
+ 
+ - [nix.dev guide for developers](https://nix.dev/)
+ 
+ - [Hound - search across all/selected Nix-related repositories.](https://search.nix.gsc.io) 
+ 
+ - [Nix(A One Pager) - A one page introduction to Nix, the language](https://github.com/tazjin/nix-1p) 
+ 
+ - [Nix Shorts](https://github.com/justinwoo/nix-shorts/)
 
-[NixOS Community](https://nixos.org/community.html)
+ - [Getting started with Home Manager for Nix](https://ghedam.at/24353/tutorial-getting-started-with-home-manager-for-nix)
 
-[NixOS Governance](https://nixos.org/governance.html)
+ - [NixOS Wiki - Raspberry Pi 4](https://nixos.wiki/wiki/NixOS_on_ARM/Raspberry_Pi_4)
 
-[Consider Donating to the NixoS Project](https://nixos.org/donate.html)
+ - [NixOS aarm64 SD image](https://hydra.nixos.org/job/nixos/trunk-combined/nixos.sd_image.aarch64-linux)
 
-[Hydra](https://github.com/nixos/hydra) is Nix's official continuous integration and build system.
+ - [nixery.dev](https://nixery.dev/)
+ 
+ - [NixOS Discourse Forum](https://discourse.nixos.org/)
+ 
+ - [NixCon- annual community conference](https://nixcon.org/)
 
-[Kubenix](https://github.com/xtruder/kubenix) is a Kubernetes resource builder written in Nix.
+ - [NixOS Community](https://nixos.org/community.html)
 
-[Nix-kubernetes](https://github.com/xtruder/nix-kubernetes) is a Kubernetes deployment manager written in nix.
+ - [NixOS Governance](https://nixos.org/governance.html)
 
-[Disnix](https://github.com/svanderburg/disnix) is a microservice architecture built with Nix.
+ - [Consider Donating to the NixoS Project](https://nixos.org/donate.html)
 
-[Hail](https://github.com/TaktInc/hail) is a service for pull-based continuous deployment.
+## NixOS Tools and Modules
+[Back to the Top](https://github.com/mikeroyal/NixOS-Guide#table-of-contents)
 
-[Morph](https://github.com/DBCDK/morph) is a NixOS deployment tool.
+ - [Hydra](https://github.com/nixos/hydra) is Nix's official continuous integration and build system.
 
-[Nixery](https://nixery.dev/) is a ad-hoc container images from Nix.
+ - [Kubenix](https://github.com/xtruder/kubenix) is a Kubernetes resource builder written in Nix.
 
-[Arion](https://github.com/hercules-ci/arion#readme) is a configure Docker Compose with Nix modules.
+ - [Nix-kubernetes](https://github.com/xtruder/nix-kubernetes) is a Kubernetes deployment manager written in nix.
 
-[Deploy-rs](https://github.com/serokell/deploy-rs) is a simple multi-profile Nix-flake deploy tool.
+ - [Disnix](https://github.com/svanderburg/disnix) is a microservice architecture built with Nix.
 
-[Fractalide](https://github.com/fractalide/fractalide) is a reusable Reproducible Composable Software.
+ - [Hail](https://github.com/TaktInc/hail) is a service for pull-based continuous deployment.
 
-[Musnix](https://github.com/musnix/musnix) is a real-time audio modules for NixOS.
+ - [Morph](https://github.com/DBCDK/morph) is a NixOS deployment tool.
 
-[Nix-bundle](https://github.com/matthewbauer/nix-bundle) is a  package Nix attributes into single-file executables.
+ - [Nixery](https://nixery.dev/) is a ad-hoc container images from Nix.
 
-[Nix-darwin](https://github.com/LnL7/nix-darwin)  are NixOS modules for Darwin.
+ - [Home Manager](https://github.com/nix-community/home-manager) is a tool to manage your user configuration just like NixOS.s.
 
-[Extra-container](https://github.com/erikarvstedt/extra-container) is a run declarative NixOS containers from the command line. Similar to nixos-shell (chrisfarms).
+ - [NixVim](https://github.com/pta2002/nixvim) is a NeoVim distribution built with Nix modules and Nixpkgs.
 
-[Nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) is a set of nixpkgs extension for web-related technologies.
+ - [Simple Nixos Mailserver](https://gitlab.com/simple-nixos-mailserver/nixos-mailserver) is a complete mailserver, managed with NixOS modules.
 
-[Krops](https://cgit.krebsco.de/krops/about/) is a stateless alternative to nixops with improved secret management.
+ - [Stylix](https://github.com/danth/stylix) is a system-wide colorscheming and typography for NixOS.
 
-[Nix-bitcoin](https://github.com/nixbitcoin/nix-bitcoin/) is a set of NixOS modules to install a bitcoin node with emphasis on security.
+ - [Awesome-Nix-HPC](https://github.com/freuk/awesome-nix-hpc) is a High Performance Computing package sets.
 
-[Nixpkgs-review](https://github.com/Mic92/nixpkgs-review) is a review nixpkgs pull requests.
+ - [Nix-darwin](https://github.com/LnL7/nix-darwin) is a tool to manage macOS configuration just like on NixOS.
 
-[Nix-update](https://github.com/Mic92/nix-update) is a swiss army knife for updating nix packages.
+ - [Nixpkgs-firefox-darwin](https://github.com/bandithedoge/nixpkgs-firefox-darwin) is a nikpkg to automatically updated Firefox binary packages for macOS.
 
-[Nox](https://github.com/madjar/nox) is a set of tools to make Nix easier to use.
+ - [Nixpkgs-wayland](https://github.com/nix-community/nixpkgs-wayland) is a bleeding-edge Wayland packages.
 
-[Nix-diff](https://github.com/Gabriel439/nix-diff) is a tool to compare Nix derivations.
+ - [NUR(Nix User Repositories)](https://github.com/nix-community/NUR/) is the mother of all overlays, allowing access to user repositories and installing packages via attributes.
 
-[Niff](https://github.com/FRidh/niff) is a tool to compare two Nix expressions to determine what attributes changes.
+ - [Alejandra](https://github.com/kamadorueda/alejandra) is a opinionated Nix code formatter optimized for speed and consistency.
 
-[Nix-upgrade-scripts](https://github.com/peterhoeg/nix-upgrade-scripts)  is a set of tools for Nixpkgs maintainers to upgrade packages.
+ - [Comma](https://github.com/Shopify/comma) is a tool that quickly runs any binary; wraps together `nix run` and `nix-index`
 
-[Nixops-manager](https://github.com/grafted-in/nixops-manager) is a NixOps wrapper for Git repositories.
+ - [Colmena](https://github.com/zhaofengli/colmena) is a simple, stateless NixOS deployment tool modeled after NixOps and morph.
 
-[Narfuse](https://github.com/taktoa/narfuse) is a  FUSE filesystem for mounting Nix archive (NAR) files as a virtual Nix store.
+ - [Krops](https://cgit.krebsco.de/krops/about/) is a lightweight toolkit to deploy NixOS systems, remotely or locally.
 
-[Nix-visualize](https://github.com/craigmbooth/nix-visualize) is a tool to visualize the dependencies of a given package.
+ - [KuberNix](https://github.com/saschagrunert/kubernix) is a single-dependency Kubernetes clusters via Nix packages.
 
-[Home-manager](https://github.com/rycee/home-manager) is a system for managing a user environment using Nix.
+ - [Terraform-nixos](https://github.com/tweag/terraform-nixos) is a set of Terraform modules designed to deploy NixOS.
 
-[NixGl](https://github.com/guibou/nixGL) is a wrapper to run OpenGL applications outside of NixOS.
+ - [Terranix](https://terranix.org) is a tool to use Nix and the NixOS module system to write your Terraform code.
 
-[Nixfmt](https://github.com/serokell/nixfmt) is a formatter for Nix code.
+ - [Arion](https://github.com/hercules-ci/arion#readme) is a configure Docker Compose with Nix modules.
+
+ - [Deploy-rs](https://github.com/serokell/deploy-rs) is a simple multi-profile Nix-flake deploy tool.
+
+ - [Fractalide](https://github.com/fractalide/fractalide) is a reusable Reproducible Composable Software.
+
+ - [Nixos-shell](https://github.com/Mic92/nixos-shell) is a simple headless VM configuration using Nix (similar to Vagrant).
+
+ - [Pushnix](https://github.com/arnarg/pushnix) is a simple cli utility that pushes NixOS configuration and triggers a rebuild using ssh.
+
+ - [Musnix](https://github.com/musnix/musnix) is a real-time audio modules for NixOS.
+
+ - [Nix-bundle](https://github.com/matthewbauer/nix-bundle) is a package Nix attributes into single-file executables.
+
+ - [Extra-container](https://github.com/erikarvstedt/extra-container) is a run declarative NixOS containers from the command line. Similar to nixos-shell (chrisfarms).
+
+ - [Nixcloud-webservices](https://github.com/nixcloud/nixcloud-webservices) is a set of nixpkgs extension for web-related technologies.
+
+ - [Krops](https://cgit.krebsco.de/krops/about/) is a stateless alternative to nixops with improved secret management.
+
+ - [Mach-nix](https://github.com/DavHau/mach-nix) is a tool that makes it easy to create and share reproducible python environments or packages. Existing tools for python package management often suffer from reproducibility and complexity issues, requiring a multitude of tools and additional virtualization layers to work sufficiently. 
+ 
+  - [Digga](https://github.com/divnix/digga) is a flake utility library that helps you declaratively craft and manage all three layers of your system environment within a single nix flakes repository:
+
+    * Development shells (via numtide/devshell).
+    * Home environments (via nix-community/home-manager).
+    * Host configurations (via NixOS/nixpkgs/nixos).
+
+ - [Impermanence](https://github.com/nix-community/impermanence) is a set of modules to help you handle persistent state on systems with ephemeral root storage.
+ 
+ - [NixOS Vagrant Plugin](https://github.com/nix-community/vagrant-nixos-plugin) is a plugin that adds nix provisioning for [NixOS](https://nixos.org/) guests to [Vagrant](https://www.vagrantup.com/).
+ 
+ - [Fenix](https://github.com/nix-community/fenix) is a Rust toolchains and Rust analyzer nightly for nix.
+
+ - [NixOS-WSL](https://github.com/nix-community/NixOS-WSL) is a minimal root filesystem for running NixOS on WSL. It can be used with DistroLauncher as ```install.tar.gz``` or as input to ```wsl --import --version 2```.
+
+ - [Nix-bitcoin](https://github.com/nixbitcoin/nix-bitcoin/) is a set of NixOS modules to install a bitcoin node with emphasis on security.
+
+ - [Nixpkgs-review](https://github.com/Mic92/nixpkgs-review) is a review nixpkgs pull requests.
+
+ - [Nix-update](https://github.com/Mic92/nix-update) is a swiss army knife for updating nix packages.
+
+ - [Nox](https://github.com/madjar/nox) is a set of tools to make Nix easier to use.
+
+ - [Nix-diff](https://github.com/Gabriel439/nix-diff) is a tool to compare Nix derivations.
+
+ - [Niff](https://github.com/FRidh/niff) is a tool to compare two Nix expressions to determine what attributes changes.
+
+ - [Nix-upgrade-scripts](https://github.com/peterhoeg/nix-upgrade-scripts)  is a set of tools for Nixpkgs maintainers to upgrade packages.
+
+ - [Nixops-manager](https://github.com/grafted-in/nixops-manager) is a NixOps wrapper for Git repositories.
+
+ - [Narfuse](https://github.com/taktoa/narfuse) is a FUSE filesystem for mounting Nix archive (NAR) files as a virtual Nix store.
+
+ - [Nix-visualize](https://github.com/craigmbooth/nix-visualize) is a tool to visualize the dependencies of a given package.
+
+ - [Home-manager](https://github.com/rycee/home-manager) is a system for managing a user environment using Nix.
+
+ - [NixGl](https://github.com/guibou/nixGL) is a wrapper to run OpenGL applications outside of NixOS.
+
+ - [Nixfmt](https://github.com/serokell/nixfmt) is a formatter for Nix code.
+
+ - [Nix-index](https://github.com/bennofs/nix-index) is a tool that quickly locate Nix packages with specific files.
+
+ - [Nix-prefetch](https://github.com/msteen/nix-prefetch) is a universal tool for updating source checksums.
+
+ - [Nix-tree](https://github.com/utdemir/nix-tree) is a tool that let's you interactively browse the dependency graph of Nix derivations.
+
+ - [Statix](https://github.com/nerdypepper/statix) is a linter/fixer to check for and fix antipatterns in Nix code.
+
+ - [Cached-nix-shell](https://github.com/xzfc/cached-nix-shell) is a `nix-shell` replacement that uses caching to open subsequent shells quickly.
+
+ - [Cachix](https://cachix.org/) is a hosted binary cache service; free for open-source projects.
+
+ - [Devshell](https://github.com/numtide/devshell) is a `mkShell` with extra bits and a toml config option to be able to onboard non-nix users.
+
+ - [Flake-utils](https://github.com/numtide/flake-utils) - Pure Nix flake utility functions to help with writing flakes.
+
+ - [Gitignore.nix](https://github.com/hercules-ci/gitignore.nix) - The most feature-complete and easy-to-use `.gitignore` integration.
+
+ - [Lorri](https://github.com/target/lorri/) is a much better `nix-shell` for development that augments direnv.
+
+ - [Makes](https://github.com/fluidattacks/makes) is a Nix-based CI/CD pipeline framework for building, testing, and releasing projects in any language, from anywhere. 
+
+ - [Niv](https://github.com/nmattia/niv/) is a easy dependency management for Nix projects with package pinning.
+
+ - [Nix-direnv](https://github.com/nix-community/nix-direnv) is a fast loader and flake-compliant configuration for the direnv environment auto-loader.
+
+ - [Nixpkgs-review](https://github.com/Mic92/nixpkgs-review) is the best tool to verify that a pull-request in Nixpkgs is building properly.
+
+ - [Pre-commit-hooks.nix](https://github.com/cachix/pre-commit-hooks.nix) is a tool to run linters/formatters at commit time and on your CI.
+
+ - [Robotnix](https://github.com/danielfullmer/robotnix) is a declarative and reproducible build system for Android (AOSP) images.
+
+ - [Nixpkgs-hammering](https://github.com/jtojnar/nixpkgs-hammering) is a nixpkg to beat your package expressions into a shape.
+
+ - [Nix-alien](https://github.com/thiagokokada/nix-alien) is a tool to run unpatched binaries on Nix/NixOS easily.
+
+## NixOS Desktop
+[Back to the Top](https://github.com/mikeroyal/NixOS-Guide#table-of-contents)
+
+ - [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
+
+ - [nixos-generators](https://github.com/nix-community/nixos-generators) is a NixOS config and build multiple different images types including VirtualBox VMs, Azure images, and installation ISOs.
+ 
+ - [nixos-up](https://github.com/samuela/nixos-up) is a super easy NixOS installer that can be used from the installation ISO.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/173939768-31847173-88ab-45f0-8501-0980d1a2a29e.png">
+  <br />
+  NixOS Desktop with the new Calamares Installer
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/128645111-b2a92dd2-f246-4df0-b05c-5b0ffce05448.png">
+  <br />
+  NixOS with the Plasma Desktop
+</p>
 
 
 ## Contribute

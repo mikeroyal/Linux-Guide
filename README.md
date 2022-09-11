@@ -244,6 +244,16 @@
 
 ![bspwm](https://user-images.githubusercontent.com/45159366/60765269-d7cce980-a04c-11e9-9a69-3ee236c07a8f.png?raw=true "image")
 
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/189502362-0569c67b-34b0-43ae-8a54-01b3e00741e2.png">
+  <br />
+ OpenBox
+</h1>
+
+[Openbox](http://openbox.org/) is a lightweight, powerful, and highly configurable stacking window manager with extensive standards support.
+
+![openbox](https://user-images.githubusercontent.com/45159366/189502364-368f1873-5d3e-4819-8dc6-0c14606d1d9a.png?raw=true "image")
+
 # Linux Companies
 
 [Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)

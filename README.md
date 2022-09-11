@@ -41,7 +41,7 @@
      
     * [Running Android Apps on your Linux system](https://github.com/mikeroyal/Linux-Guide#running-android-apps-on-your-linux-system)   
  
-    * [Running Windows Apps on your Linux system](https://github.com/mikeroyal/Linux-Guide#running-bottles-on-your-linux-system)  
+    * [Running Windows Apps on your Linux system](https://github.com/mikeroyal/Linux-Guide#running-windows-apps-on-your-linux-system)  
     
     * [Professional Audio/Video Editing](https://github.com/mikeroyal/Linux-Guide#professional-audio--video-editing)
     

@@ -683,6 +683,11 @@ TLPUI
 
 [Waydroid](https://github.com/waydroid/waydroid) is a container-based approach to boot a full Android system on a regular Linux system. Make sure to checkout the [Waydroid Arch wiki page](https://wiki.archlinux.org/title/Waydroid). 
 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189516892-24454312-836a-4a88-a6b8-a3e9aaa8612c.png">
+  <br />
+</p>
+
 [Anbox](https://github.com/anbox) is a container-based software for running a full Android system on Linux distributions. Make sure to checkout the [Anbox Arch wiki page](https://wiki.archlinux.org/title/Anbox).
 
 
@@ -820,11 +825,11 @@ TLPUI
   * **[VNC Source](https://github.com/norihiro/obs-vnc)** plugin; VNC viewer that works as a source.
   * **[Websockets](https://github.com/Palakis/obs-websocket)** plugin; remote-control OBS Studio through WebSockets, compatible with [StreamControl](https://play.google.com/store/apps/details?id=dev.t4ils.obs_remote&hl=en).
   
-Gaming
+# Gaming
 [Back to the Top](#table-of-contents)
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/189516387-fff57c9d-9358-48d9-b039-91ef5680fb88.png">
+ <img src="https://user-images.githubusercontent.com/45159366/189517086-1d91abff-4a1b-4f7f-bd02-ffaf09178f5c.gif">
   <br />
 </p>
   

@@ -128,24 +128,24 @@
 [Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/93250993-745a4380-f748-11ea-9b59-ec45e1817fc7.png">
+  <img src="https://user-images.githubusercontent.com/45159366/189545533-4621b1a6-15c2-406a-9b89-b3ed43e47762.png">
   <br />
   KDE Plasma Desktop
 </h1>
 
 [KDE Plasma Desktop](https://kde.org), is a beautiful Windows-like desktop that you use to surf the web, keep in touch with colleagues, friends and family, manage your files, enjoy music and videos; and get creative and productive at work. The KDE community develops and maintains more than 200 applications which run on any Linux desktop, and often other platforms too.
 
-![image](https://user-images.githubusercontent.com/45159366/93250998-758b7080-f748-11ea-814e-40e04ac3df4b.jpeg?raw=true "image")
+![image](https://user-images.githubusercontent.com/45159366/189545547-7e048fad-d7e5-41c3-aaf4-af08a60135e8.png?raw=true "image")
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/53324409-96a21d00-3895-11e9-9cc8-d6a3695f5ce3.png">
+  <img src="https://user-images.githubusercontent.com/45159366/189545550-b510fb23-846c-4286-aeb2-6b0f658a8a5f.png">
   <br />
   GNOME Desktop
 </h1>
 
-[GNOME Desktop](https://www.gnome.org/), An easy and elegant way to use your computer, GNOME 3 is designed to put you in control and get things done.
+[GNOME Desktop](https://www.gnome.org/), An easy and elegant way to use your computer, GNOME is designed to put you in control and get things done.
 
-![image](https://user-images.githubusercontent.com/45159366/53324406-91dd6900-3895-11e9-870d-2d3635cba408.jpeg?raw=true "image")
+![image](https://user-images.githubusercontent.com/45159366/189545552-e83c423b-02a8-4604-b37b-5b93b814a354.png?raw=true "image")
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/45159366/52540606-4af15e80-2d40-11e9-8704-3308568fd105.png">
@@ -297,6 +297,8 @@
  * [Tuxedo Computers](https://www.tuxedocomputers.com/en)
 
  * [Entroware](https://www.entroware.com/store/)
+ 
+ * [Pine64](https://pine64.com/)
 
  * [SlimBooks](https://slimbook.es/en/)
 

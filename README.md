@@ -37,11 +37,11 @@
          
     * [Improving Battery Life](https://github.com/mikeroyal/Linux-Guide#improving-battery-life)
 
-    * [Copy/Transfer files to your Linux System](https://github.com/mikeroyal/Linux-Guide#copytransfer-files-to-your-steam-deck)
+    * [Copy/Transfer files to your Linux System](https://github.com/mikeroyal/Linux-Guide#copytransfer-files-to-your-linux-system)
      
-    * [Running Android Apps on your Linux system](https://github.com/mikeroyal/Linux-Guide#running-android-apps-on-your-steam-deck)   
+    * [Running Android Apps on your Linux system](https://github.com/mikeroyal/Linux-Guide#running-android-apps-on-your-linux-system)   
  
-    * [Running Windows Apps on your Linux system](https://github.com/mikeroyal/Linux-Guide#running-bottles-on-your-steam-deck)  
+    * [Running Windows Apps on your Linux system](https://github.com/mikeroyal/Linux-Guide#running-bottles-on-your-linux-system)  
     
     * [Professional Audio/Video Editing](https://github.com/mikeroyal/Linux-Guide#professional-audio--video-editing)
     

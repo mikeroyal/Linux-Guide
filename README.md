@@ -639,9 +639,8 @@
 Scrutiny UI
 </p>
 
-
 ## Improving Battery Life
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 * [Laptop Power Management tutorial by Chris Titus Tech](https://christitus.com/laptop-power-management/)
 
@@ -659,7 +658,7 @@ TLPUI
 
  
 ## Tools to Copy/Transfer files to your Linux System
- [Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+ [Back to the Top](#table-of-contents)
  
 [KDE Connect](https://kdeconnect.kde.org/) is a tool that lets you easily link up your phone to your computer, your computer to your tablet; or your computer to your Steam Deck device. It can be used to share files across devices, read and send SMS directly from your laptop, and lock up your computer remotely.
 
@@ -680,7 +679,7 @@ TLPUI
 [Usermode FTP Server](https://gitlab.com/ergoithz/umftpd) is a tool that let's you start an FTP server as user and transfer files with any FTP client. Allowing you to access your files directly with many file browsers' builtin FTP support: Windows File Explorer, Thunar, Gnome Files, Dolphin and many more. [Usermode FTP Server on FlatHub](https://flathub.org/apps/details/eu.ithz.umftpd)
 
 ## Running Android Apps on your Linux System
-[Back to the Top](https://github.com/mikeroyal/Steam-Deck-Guide#table-of-contents)
+[Back to the Top](#table-of-contents)
 
 [Waydroid](https://github.com/waydroid/waydroid) is a container-based approach to boot a full Android system on a regular Linux system. Make sure to checkout the [Waydroid Arch wiki page](https://wiki.archlinux.org/title/Waydroid). 
 

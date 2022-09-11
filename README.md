@@ -31,9 +31,9 @@
          * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Linux-Guide#privacy--security-focused-browser-extensions)
          * [Privacy-focused Search Engines](https://github.com/mikeroyal/Linux-Guide#privacy-focused-search-engines)
                  
-    * [Backups](https://github.com/mikeroyal/Linux-Guide#)
+    * [Backups](https://github.com/mikeroyal/Linux-Guide#Backups)
  
-    * [Storage Health](https://github.com/mikeroyal/Linux-Guide#storage-health)
+    * [Storage Health](https://github.com/mikeroyal/Linux-Guide#storage-disk-health)
          
     * [Improving Battery Life](https://github.com/mikeroyal/Linux-Guide#improving-battery-life)
 
@@ -278,36 +278,35 @@
 
 [Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
 
-[Red Hat](https://www.redhat.com/en) makers of Red Hat Enterprise Linux and sponsors to the [Fedora Project](https://getfedora.org/).
+ * [Red Hat](https://www.redhat.com/en) makers of Red Hat Enterprise Linux and sponsors to the [Fedora Project](https://getfedora.org/).
 
-[Canonical](https://canonical.com) makers of Ubuntu Desktop and Server.
+ * [Canonical](https://canonical.com) makers of Ubuntu Desktop and Server.
 
-[SUSE](https://www.suse.com) makers of SUSE Enterprise Linux.
+ * [SUSE](https://www.suse.com) makers of SUSE Enterprise Linux.
 
-[Manjaro](https://manjaro.org) makers of Manjaro Linux.
+ * [Manjaro](https://manjaro.org) makers of Manjaro Linux.
 
-[System76](https://system76.com) makers of [Pop!_OS](https://pop.system76.com/)
+ * [System76](https://system76.com) makers of [Pop!_OS](https://pop.system76.com/)
 
 # Linux Hardware Vendors
 
-[Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
+[Back to the Top](#table-of-contents)
 
-[System76](https://system76.com)
+ * [System76](https://system76.com)
 
-[Tuxedo Computers](https://www.tuxedocomputers.com/en)
+ * [Tuxedo Computers](https://www.tuxedocomputers.com/en)
 
-[Entroware](https://www.entroware.com/store/)
+ * [Entroware](https://www.entroware.com/store/)
 
-[SlimBooks](https://slimbook.es/en/)
+ * [SlimBooks](https://slimbook.es/en/)
 
-[Star Labs](https://starlabs.systems/)
+ * [Star Labs](https://starlabs.systems/)
 
-[Lenovo](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/X1-Carbon-Gen-8-/p/22TP2X1X1C8?clickid=2BI2bvSDaxyOUYgwUx0Mo36AUkiXENxNRV4X240&irgwc=1&PID=2347489&acid=ww%3Aaffiliate%3Abv0as6)
+ * [Lenovo](https://techtoday.lenovo.com/us/en/workstations/linux)
 
-[HP](https://hpdevone.com/)
+ * [HP](https://hpdevone.com/)
 
-[Dell](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems) 
-
+ * [Dell](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems) 
 
 # Linux in the Cloud
 

@@ -58,29 +58,31 @@
      - [Graphics Performance](https://github.com/mikeroyal/Linux-Guide#graphics-performance)
      - [Performance Benchmarks](https://github.com/mikeroyal/Linux-Guide#performance-benchmarks)
      - [WINE](https://github.com/mikeroyal/Linux-Guide#wine)
+     
+9. [WireGuard](https://github.com/mikeroyal/Linux-Guide#wireguard)
     
-9. [Linux Security Hardening](https://github.com/mikeroyal/Linux-Guide#Linux-Security-Hardening)   
+10. [Linux Security Hardening](https://github.com/mikeroyal/Linux-Guide#Linux-Security-Hardening)   
  
    - [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Linux-Guide#Security-Standards-Frameworks-and-Benchmarks)
    - [Security Tools](https://github.com/mikeroyal/Linux-Guide#security-tools)
  
-10. [File systems](https://github.com/mikeroyal/Linux-Guide#file-systems) 
+11. [File systems](https://github.com/mikeroyal/Linux-Guide#file-systems) 
 
-11. [Debian](https://github.com/mikeroyal/Linux-Guide#debian)
+12. [Debian](https://github.com/mikeroyal/Linux-Guide#debian)
 
-12. [Ubuntu](https://github.com/mikeroyal/Linux-Guide#ubuntu)
+13. [Ubuntu](https://github.com/mikeroyal/Linux-Guide#ubuntu)
 
-13. [Pop!_OS](https://github.com/mikeroyal/Linux-Guide#pop_os)
+14. [Pop!_OS](https://github.com/mikeroyal/Linux-Guide#pop_os)
 
-14. [Linux Mint](https://github.com/mikeroyal/Linux-Guide#linux-mint)
+15. [Linux Mint](https://github.com/mikeroyal/Linux-Guide#linux-mint)
 
-15. [Fedora/CentOS Stream/Red Hat Enterprise Linux](https://github.com/mikeroyal/Linux-Guide#fedoracentos-streamrhel)
+16. [Fedora/CentOS Stream/Red Hat Enterprise Linux](https://github.com/mikeroyal/Linux-Guide#fedoracentos-streamrhel)
 
-16. [SUSE/openSUSE](https://github.com/mikeroyal/Linux-Guide#suseopensuse)
+17. [SUSE/openSUSE](https://github.com/mikeroyal/Linux-Guide#suseopensuse)
 
-17. [Arch Linux](https://github.com/mikeroyal/Linux-Guide#arch-linux)
+18. [Arch Linux](https://github.com/mikeroyal/Linux-Guide#arch-linux)
 
-18. [NixOS](https://github.com/mikeroyal/Linux-Guide#nixos)
+19. [NixOS](https://github.com/mikeroyal/Linux-Guide#nixos)
 
  
  <p align="center">
@@ -434,7 +436,7 @@
 [LibreWolf](https://librewolf.net/) is designed to increase protection against tracking and fingerprinting techniques, while also including a few security improvements. It remove all the telemetry, data collection and annoyances, as well as disabling anti-freedom features like DRM.
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/189506043-3e2c44b9-9809-469f-a41e-8f6e6fad5c04.png">
   <br />
   LibreWolf
 </p>
@@ -647,7 +649,12 @@ Scrutiny UI
 [TLP](https://linrunner.de/tlp/index.html) is a free open source, feature-rich and command line tool for advanced power management, which helps to optimize battery life in laptops powered by Linux. 
 
 [TLPUI](https://github.com/d4nj1/TLPUI) is a GTK user interface for TLP written in Python.
-      
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/189506040-bad9ef24-1a43-442e-a9b1-844e0e463490.png">
+<br />
+TLPUI
+</p>    
 
  
 ## Tools to Copy/Transfer files to your Linux System
@@ -751,8 +758,57 @@ Scrutiny UI
   * **[Virtual Cam Filter](https://github.com/exeldro/obs-virtual-cam-filter)** plugin; make sources available to the virtual camera via a filter
   * **[VNC Source](https://github.com/norihiro/obs-vnc)** plugin; VNC viewer that works as a source.
   * **[Websockets](https://github.com/Palakis/obs-websocket)** plugin; remote-control OBS Studio through WebSockets, compatible with [StreamControl](https://play.google.com/store/apps/details?id=dev.t4ils.obs_remote&hl=en).
+  
+# WireGuard
+[Back to the Top](https://github.com/mikeroyal/Self-Hosting-Guide#table-of-contents)
 
-## Linux Security Hardening
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/147891038-00f57362-e843-4bfb-be31-606c954d4e6c.png">
+  <br />
+</p>
+
+
+[WireGuard®](https://www.wireguard.com/) is a straight-forward, fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPsec while avoiding the massive headache. It intends to be considerably more performant than OpenVPN. WireGuard is designed as a general-purpose VPN for running on embedded interfaces and super computers alike, fit for many circumstances. Initially released for the Linux kernel, it is now cross-platform (Windows, macOS, BSD, iOS, Android) and widely deployable. It is currently under a massive development, but it already might be regarded as the most secure, most comfortable to use, and the simplest VPN solution in the industry.
+
+[Wiretrustee](https://wiretrustee.com/) is a WireGuard®-based mesh network that connects your devices into a single private network.
+
+[Wireguard Manager](https://github.com/complexorganizations/wireguard-manager) is a tool that enables you to build your own vpn under a minute.
+
+[Tailscale](https://github.com/tailscale) is a WireGuard-based app that makes secure, private networks easy for teams of any scale. It works like an [overlay network](https://tailscale.com/blog/how-tailscale-works/) between the computers of your networks using all kinds of [NAT traversal sorcery](https://tailscale.com/blog/how-nat-traversal-works/).
+
+[Headscale](https://github.com/juanfont/headscale) is an open source, self-hosted implementation of the Tailscale coordination server.
+
+[Firezone](https://firezone.dev/) is a self-hosted WireGuard®-based VPN server and Linux firewall.
+
+[Mistborn](https://gitlab.com/cyber5k/mistborn) is a secure platform for easily standing up and managing your own cloud services: including firewall, ad-blocking, and multi-factor WireGuard VPN access.
+
+[Mistborn CLI](https://gitlab.com/cyber5k/mistborn-cli) is a Command-line interface for [Mistborn](https://gitlab.com/cyber5k/mistborn).
+
+[BoringTun](https://github.com/cloudflare/boringtun) is an implementation of the WireGuard® protocol designed for portability and speed. It's successfully deployed on millions of [iOS](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627) and [Android](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&hl=en_US) consumer devices as well as thousands of Cloudflare Linux servers.
+
+[PiVPN](https://pivpn.io/) is the simplest VPN installer, designed for [Raspberry Pi](https://www.raspberrypi.com).
+
+[Algo VPN](https://github.com/trailofbits/algo) is a set of Ansible scripts that simplify the setup of a personal WireGuard and IPsec VPN. It uses the most secure defaults available and works with common cloud providers.
+
+[Pro Custodibus](https://www.procustodibus.com/features/) is a tool for managing WireGuard with a variety of business VPN (Virtual Private Network) use cases, such as site-to-site connectivity, secure remote access from anywhere, secure access to the cloud (Amazon Web Services, Google Cloud Platform, Microsoft Azure, etc), and more.
+
+[Drago](https://seashell.github.io/drago) is a flexible configuration manager for WireGuard designed to make it simple to configure secure network overlays spanning heterogeneous nodes distributed across different clouds and physical locations. Drago is in active development, and we welcome contributions from the open-source community.
+
+[Netmaker](https://netmaker.org/) is a tool that helps connect any computers together over a secure, fast, private network, and manage multiple networks from a central server.
+
+[Kilo](https://github.com/squat/kilo) is a multi-cloud network overlay built on WireGuard and designed for Kubernetes. Kilo connects nodes in a cluster by providing an encrypted layer 3 network that can span across data centers and public clouds. The Pod network created by Kilo is always fully connected, even when the nodes are in different networks or behind NAT. By allowing pools of nodes in different locations to communicate securely, Kilo enables the operation of multi-cloud clusters. Kilo's design allows clients to VPN to a cluster in order to securely access services running on the cluster.
+
+[Subspace](https://github.com/subspacecloud/subspace) is a simple WireGuard VPN server GUI.
+
+[WG UI](https://github.com/EmbarkStudios/wg-ui) is a basic, self-contained management service for WireGuard with a self-serve web UI.
+
+[WireHole](https://github.com/IAmStoxe/wirehole) is a combination of WireGuard, PiHole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create and deploy a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities (via Pihole), and DNS caching with additional privacy options (via Unbound).
+
+[Gluetun](https://github.com/qdm12/gluetun) is a lightwieght VPN client in a thin Docker container for multiple VPN providers, written in Go, and uses OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+
+[Ethr](https://github.com/microsoft/ethr) is a cross platform network performance measurement tool written in golang. The goal of this project is to provide a native tool for comprehensive network performance measurements of bandwidth, connections/s, packets/s, latency, loss & jitter, across multiple protocols such as TCP, UDP, HTTP, HTTPS, and across multiple platforms such as Windows, Linux and other Unix systems.
+
+# Linux Security Hardening
 [Back to the Top](#table-of-contents)
 
 ### Security Standards, Frameworks and Benchmarks 

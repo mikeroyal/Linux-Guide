@@ -58,7 +58,7 @@
     
 9. [Linux Security Hardening](https://github.com/mikeroyal/Linux-Guide#Linux-Security-Hardening)   
  
-   - [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Linux-Guide#Security Standards-Frameworks-and-Benchmarks)
+   - [Security Standards, Frameworks and Benchmarks](https://github.com/mikeroyal/Linux-Guide#Security-Standards-Frameworks-and-Benchmarks)
    - [Security Tools](https://github.com/mikeroyal/Linux-Guide#security-tools)
  
 10. [File systems](https://github.com/mikeroyal/Linux-Guide#file-systems) 
@@ -96,7 +96,7 @@
 
 [The Open Source Computer Science Degree by Forrest Knight](https://github.com/ForrestKnight/open-source-cs)
 
-[My Windows Subsystem for Linux(WSl) Guide](https://github.com/mikeroyal/WSL-Guide)
+[My Windows Subsystem for Linux(WSL) Guide](https://github.com/mikeroyal/WSL-Guide)
 
 [A Cloud Guru Linux Training Certifictions](https://acloudguru.com/linux-training)
 
@@ -287,15 +287,20 @@
 
 [System76](https://system76.com)
 
-[Tuexdo Computers](https://www.tuxedocomputers.com/en)
+[Tuxedo Computers](https://www.tuxedocomputers.com/en)
 
 [Entroware](https://www.entroware.com/store/)
 
-[Dell](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems) 
+[SlimBooks](https://slimbook.es/en/)
+
+[Star Labs](https://starlabs.systems/)
 
 [Lenovo](https://www.lenovo.com/us/en/laptops/thinkpad/thinkpad-x1/X1-Carbon-Gen-8-/p/22TP2X1X1C8?clickid=2BI2bvSDaxyOUYgwUx0Mo36AUkiXENxNRV4X240&irgwc=1&PID=2347489&acid=ww%3Aaffiliate%3Abv0as6)
 
-[HP](https://www8.hp.com/us/en/campaigns/ubuntu/index.html)
+[HP](https://hpdevone.com/)
+
+[Dell](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems) 
+
 
 # Linux in the Cloud
 
@@ -303,41 +308,39 @@
 
 [Amazon Linux 2](https://aws.amazon.com/amazon-linux-2/) a next generation of Amazon Linux, a Linux server operating system from Amazon Web Services (AWS). It provides a secure, stable, and high performance execution environment to develop and run cloud and enterprise applications. With Amazon Linux 2, you get an application environment that offers long term support with access to the latest innovations in the Linux ecosystem.
 
-[Bottlerocket](https://aws.amazon.com/bottlerocket/) is a Linux-based open-source operating system that is purpose-built by Amazon Web Services for running containers on virtual machines or bare metal hosts. Most customers today run containerized applications on general-purpose operating systems that are updated package-by-package, which makes OS updates difficult to automate.
-
-[Getting Started with Bottlerocket and Certified AWS Partners](https://aws.amazon.com/blogs/apn/getting-started-with-bottlerocket-and-certified-aws-partners/)
-
-[Using Bottlerocket with Amazon ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-bottlerocket.html)
-
 [Amazon Linux AMI](https://aws.amazon.com/amazon-linux-ami/) is a supported and maintained Linux image provided by Amazon Web Services for use on Amazon Elastic Compute Cloud (Amazon EC2). It is designed to provide a stable, secure, and high performance execution environment for applications running on Amazon EC2.
 
-[Ubuntu on AWS](https://ubuntu.com/aws)
+[Bottlerocket](https://aws.amazon.com/bottlerocket/) is a Linux-based open-source operating system that is purpose-built by Amazon Web Services for running containers on virtual machines or bare metal hosts. Most customers today run containerized applications on general-purpose operating systems that are updated package-by-package, which makes OS updates difficult to automate.
 
-[Ubuntu on Azure](https://ubuntu.com/azure)
+ * [Getting Started with Bottlerocket and Certified AWS Partners](https://aws.amazon.com/blogs/apn/getting-started-with-bottlerocket-and-certified-aws-partners/)
 
-[Ubuntu Pro for Azure](https://ubuntu.com/azure/pro)
+ * [Using Bottlerocket with Amazon ECS](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-bottlerocket.html)
 
-[Linux on Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
-
-[Creating a Linux VM in the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
+ * [Ubuntu on AWS](https://ubuntu.com/aws)
 
 [Azure Sphere](https://www.microsoft.com/en-us/azure-sphere/) is a secured, high-level application platform with built-in communication and security features for internet-connected devices. The platform consists of the integration of hardware built around a secured silicon chip; the Azure Sphere OS, a custom high-level Linux-based operating system; and the Azure Sphere Security Service, a cloud-based security service that provides continuous security.
 
-[Creating a virtual Linux workstation in Google Cloud](https://cloud.google.com/solutions/creating-a-virtual-linux-workstation).
+ * [Ubuntu on Azure](https://ubuntu.com/azure)
 
-[Preparing Linux VMs migrating to Google Cloud with Migrate for Compute Engine](https://cloud.google.com/migrate/compute-engine/docs/4.5/how-to/prepare-vms-servers/preparing-linux-vms)
+ * [Ubuntu Pro for Azure](https://ubuntu.com/azure/pro)
 
-[Understanding OpenStack on Red Hat](https://www.redhat.com/en/topics/openstack)
+ * [Linux on Azure](https://azure.microsoft.com/en-us/overview/linux-on-azure/)
 
-[Understanding OpenStack on Ubuntu](https://ubuntu.com/openstack/what-is-openstack)
+ * [Creating a Linux VM in the Azure portal](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal)
 
-[Initial Server Setup with Ubuntu 20.04 on DigitalOcean](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-20-04)
+ * [Creating a virtual Linux workstation in Google Cloud](https://cloud.google.com/solutions/creating-a-virtual-linux-workstation).
 
-[Tutorials for Setting up Linux workspaces on DigitalOcean](https://www.digitalocean.com/community/tutorials?q=linux)
+ * [Preparing Linux VMs migrating to Google Cloud with Migrate for Compute Engine](https://cloud.google.com/migrate/compute-engine/docs/4.5/how-to/prepare-vms-servers/preparing-linux-vms)
 
-[DigitalOcean Marketplace](https://marketplace.digitalocean.com/)
+ * [Understanding OpenStack on Red Hat](https://www.redhat.com/en/topics/openstack)
 
-[Linode](https://linode.com/)
+ * [Understanding OpenStack on Ubuntu](https://ubuntu.com/openstack/what-is-openstack)
+
+ * [Tutorials for Setting up Linux workspaces on DigitalOcean](https://www.digitalocean.com/community/tutorials?q=linux)
+
+ * [DigitalOcean Marketplace](https://marketplace.digitalocean.com/)
+
+ * [Linode](https://linode.com/)
 
 # Getting Software
 

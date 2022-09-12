@@ -326,6 +326,8 @@
 
 [Back to the Top](#table-of-contents)
 
+ * [Valve](https://www.valvesoftware.com/) makers of the [Steam Deck](http://www.steamdeck.com/).
+
  * [System76](https://system76.com)
 
  * [Tuxedo Computers](https://www.tuxedocomputers.com/en)

@@ -54,7 +54,7 @@
      - [ProtonDB](https://github.com/mikeroyal/Linux-Guide#protondb)
      - [Lutris](https://github.com/mikeroyal/Linux-Guide#lutris)
         * [Epic Games Store integration](https://github.com/mikeroyal/Linux-Guide#Epic-Games-Store-integration)
-        * [Blizzard Battle.net integration](https://github.com/mikeroyal/Linux-Guide#Blizzard-Battle.net-integration)
+        * [Blizzard Battle.net integration](https://github.com/mikeroyal/Linux-Guide#Blizzard-Battlenet-integration)
         * [EA Play integration](https://github.com/mikeroyal/Linux-Guide#EA-Play-integration)
         * [Origin integration](https://github.com/mikeroyal/Linux-Guide#Origin-integration)
         * [Ubisoft Connect integration](https://github.com/mikeroyal/Linux-Guide#Ubisoft-Connect-integration)

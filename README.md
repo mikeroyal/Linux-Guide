@@ -28,8 +28,8 @@
     * [Microsoft Office Alternatives](https://github.com/mikeroyal/Linux-Guide#microsoft-office-alternatives)
 
     * [Secure & Privacy-focused Web Browsers](https://github.com/mikeroyal/Linux-Guide#secure--privacy-focused-web-browsers)
-         * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Linux-Guide#privacy--security-focused-browser-extensions)
-         * [Privacy-focused Search Engines](https://github.com/mikeroyal/Linux-Guide#privacy-focused-search-engines)
+        * [Privacy & Security Focused Browser extensions](https://github.com/mikeroyal/Linux-Guide#privacy--security-focused-browser-extensions)
+        * [Privacy-focused Search Engines](https://github.com/mikeroyal/Linux-Guide#privacy-focused-search-engines)
                  
     * [Backups](https://github.com/mikeroyal/Linux-Guide#Backups)
  
@@ -53,6 +53,12 @@
      - [Steam](https://github.com/mikeroyal/Linux-Guide#steam)
      - [ProtonDB](https://github.com/mikeroyal/Linux-Guide#protondb)
      - [Lutris](https://github.com/mikeroyal/Linux-Guide#lutris)
+        * [Epic Games Store integration](https://github.com/mikeroyal/Linux-Guide#Epic-Games-Store-integration)
+        * [Blizzard Battle.net integration](https://github.com/mikeroyal/Linux-Guide#Blizzard-Battle.net-integration)
+        * [EA Play integration](https://github.com/mikeroyal/Linux-Guide#EA-Play-integration)
+        * [Origin integration](https://github.com/mikeroyal/Linux-Guide#Origin-integration)
+        * [Ubisoft Connect integration](https://github.com/mikeroyal/Linux-Guide#Ubisoft-Connect-integration)
+        * [GOG Galaxy integration](https://github.com/mikeroyal/Linux-Guide#GOG-Galaxy-integration)
      - [GameHub](https://github.com/mikeroyal/Linux-Guide#gamehub)
      - [Epic Games Store](https://github.com/mikeroyal/Linux-Guide#epic-games-store)
      - [Game Streaming](https://github.com/mikeroyal/Linux-Guide#game-streaming)
@@ -907,9 +913,48 @@ TLPUI
 
 [Lutris](https://lutris.net)is a gaming client for Linux. It gives you access to all your video games with the exception of the current console generation. Also, integrates nicely with other stores like GOG, Steam, Battle.net, Origin, Uplay and many other sources that allow you to import your existing game library and community maintained install scripts give you a completely automated setup.
 
+### Epic Games Store integration
+
+[Back to the Top](#table-of-contents)
+
 [Add Epic Games Store](https://lutris.net/games/epic-games-store/)
 
  <img src="https://user-images.githubusercontent.com/45159366/106686406-14412e00-657f-11eb-97c4-c80c6e25a374.png">
+ 
+ ### Blizzard Battle.net intgeration
+[Back to the Top](#table-of-contents)
+
+[Blizzard Battle.net](https://lutris.net/games/battlenet/) is an internet-based online gaming, digital distribution, and digital rights management platform developed by Activision and Blizzard Entertainment. Battle.net is the launcher for World of Warcraft, Diablo III, StarCraft II, Hearthstone, Heroes of the Storm, Overwatch and Call of Duty.
+
+<img src="https://user-images.githubusercontent.com/45159366/189614458-d51a15cb-d02d-4b1f-9e77-e712dcdb1d73.png">
+
+### EA Play integration
+[Back to the Top](#table-of-contents)
+
+[EA Play](https://lutris.net/games/ea-desktop/) is a subscription-based video game service from Electronic Arts for the Xbox One, Xbox Series X/S, PlayStation 4, PlayStation 5 and Microsoft Windows platforms, offering access to selected games published by Electronic Arts along with additional incentives.
+
+<img src="https://user-images.githubusercontent.com/45159366/189614466-476e0c4e-bab9-44bd-86c4-8aeadd739b63.png">
+
+### Origin integration
+[Back to the Top](#table-of-contents)
+ 
+[Origin](https://lutris.net/games/origin/) is an online gaming, digital distribution and digital rights management (DRM) platform developed by Electronic Arts that allows users to purchase games on the internet for PC and mobile platforms, and download them with the Origin client (formerly EA Download Manager, EA Downloader and EA Link).
+
+<img src="https://user-images.githubusercontent.com/45159366/189614468-49c4a05c-d6ca-4988-b3e6-10f0c71463d6.png">
+
+### Ubisoft Connect integration
+[Back to the Top](#table-of-contents)
+
+[Ubisoft Connect](https://lutris.net/games/ubisoft-connect/) is a digital distribution, digital rights management, multiplayer and communications service created by Ubisoft to provide an experience similar to the achievements/trophies offered by various other game companies.
+
+<img src="https://user-images.githubusercontent.com/45159366/189614471-422cbad8-1ae7-4f06-ad81-7f3b68550569.png">
+
+### GOG Galaxy integration
+[Back to the Top](#table-of-contents)
+
+[GOG GALAXY](https://lutris.net/games/gog-galaxy/) is a fully optional client to install, play and update your games.
+
+<img src="https://user-images.githubusercontent.com/45159366/189615528-385c01a8-f780-49e0-9502-db00d8082d9d.png">
 
  ## GameHub
 [Back to the Top](#table-of-contents)

@@ -234,6 +234,49 @@
 [Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
 
 <h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/189545533-4621b1a6-15c2-406a-9b89-b3ed43e47762.png">
+  <br />
+  KWin WM
+</h1>
+
+[KWin](https://invent.kde.org/plasma/kwin) is the window manager for the KDE Plasma Desktop. It gives you complete control over your windows, making sure they're not in the way but aid you in your task.  It paints the window decoration, the bar on top of every window with (configurable) buttons like close, maximize and minimize.
+
+![image](https://user-images.githubusercontent.com/45159366/189545547-7e048fad-d7e5-41c3-aaf4-af08a60135e8.png?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/189545550-b510fb23-846c-4286-aeb2-6b0f658a8a5f.png">
+  <br />
+  Mutter WM
+</h1>
+
+[Mutter](https://gitlab.gnome.org/GNOME/mutter) is a Wayland display server and X11 window manager and compositor library. When used as a Wayland display server, it runs on top of KMS and libinput. It implements the compositor side of the Wayland core protocol as well as various protocol extensions. 
+
+![image](https://user-images.githubusercontent.com/45159366/189545552-e83c423b-02a8-4604-b37b-5b93b814a354.png?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/189555888-7809aaca-e358-4a63-9a5b-c27337833cab.png">
+  <br />
+ FluxBox
+</h1>
+
+[Fluxbox](https://fluxbox.org/) is a stacking window manager for the X Window System, which based upon Blackbox.
+
+![fluxbox](https://user-images.githubusercontent.com/45159366/189555437-825c9bc9-5630-4985-bc84-b5a2d55b0865.png?raw=true "image")
+
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/189502362-0569c67b-34b0-43ae-8a54-01b3e00741e2.png">
+  <br />
+ OpenBox
+</h1>
+
+[Openbox](http://openbox.org/) is a lightweight, powerful, and highly configurable stacking window manager with extensive standards support.
+
+![openbox](https://user-images.githubusercontent.com/45159366/189502364-368f1873-5d3e-4819-8dc6-0c14606d1d9a.png?raw=true "image")
+
+
+### Tiling Windows Managers
+
+<h1 align="center">
   <img src="https://user-images.githubusercontent.com/45159366/58378567-d804a000-7f4a-11e9-9b60-db6a0136261f.png">
   <br />
   i3 wm
@@ -264,15 +307,6 @@
 
 ![bspwm](https://user-images.githubusercontent.com/45159366/60765269-d7cce980-a04c-11e9-9a69-3ee236c07a8f.png?raw=true "image")
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/189502362-0569c67b-34b0-43ae-8a54-01b3e00741e2.png">
-  <br />
- OpenBox
-</h1>
-
-[Openbox](http://openbox.org/) is a lightweight, powerful, and highly configurable stacking window manager with extensive standards support.
-
-![openbox](https://user-images.githubusercontent.com/45159366/189502364-368f1873-5d3e-4819-8dc6-0c14606d1d9a.png?raw=true "image")
 
 # Linux Companies
 

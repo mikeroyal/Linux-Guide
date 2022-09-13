@@ -63,7 +63,7 @@
      - [Epic Games Store](https://github.com/mikeroyal/Linux-Guide#epic-games-store)
      - [Game Streaming](https://github.com/mikeroyal/Linux-Guide#game-streaming)
      - [Game Emulators](https://github.com/mikeroyal/Linux-Guide#game-emulators)
-     - [Graphics Performance](https://github.com/mikeroyal/Linux-Guide#graphics-performance)
+     - [Hardware Performance(CPU, GPU, Gaming Peripherals)](https://github.com/mikeroyal/Linux-Guide#hardware-performancecpu-gpu-gaming-peripherals)
      - [Performance Benchmarks](https://github.com/mikeroyal/Linux-Guide#performance-benchmarks)
      - [WINE](https://github.com/mikeroyal/Linux-Guide#wine)
      
@@ -876,6 +876,16 @@ TLPUI
  <img src="https://user-images.githubusercontent.com/45159366/189517086-1d91abff-4a1b-4f7f-bd02-ffaf09178f5c.gif">
   <br />
 </p>
+
+### Linux Gaming Resources
+ 
+ * [GamingOnLinux](https://www.gamingonlinux.com/)
+ * [BoilinSteam](https://boilingsteam.com/)
+ * [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Home)
+ * [Rootgamer](https://rootgamer.com/about-us/)
+ * [Linux Gaming Central](https://linuxgamingcentral.com/)
+ * [Linux Game Cast](https://www.youtube.com/c/linuxgamecast)
+ * [r/linux_gaming subreddit](https://www.reddit.com/r/linux_gaming)
   
 ## Steam
 [Back to the Top](#table-of-contents)
@@ -1094,16 +1104,60 @@ TLPUI
    - [r/Roms](https://www.reddit.com/r/Roms/)
 
 
-## Graphics Performance
+## Hardware Performance(CPU, GPU, Gaming Peripherals)
 [Back to the Top](#table-of-contents)
 
 [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe) is a GTK system utility designed by Roberto Leinardi to provide information, control the fans and overclock your NVIDIA video card for better performance. Available in the Pop Shop as a Flatpak.
+
  <img src="https://user-images.githubusercontent.com/45159366/107091994-89974380-67b7-11eb-85ed-eedec7e3dfbf.png">
 
 [CoreCtrl](https://gitlab.com/corectrl/corectrl) is a free and open source Linux application that allows you to control your computer hardware with ease using application profiles for native and Windows applications, has basic CPU controls and full AMD GPUs controls (for both old and new models). 
 
-<img src="https://user-images.githubusercontent.com/45159366/107092000-8b610700-67b7-11eb-86f7-6fcb3d017cd0.png">
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/107092000-8b610700-67b7-11eb-86f7-6fcb3d017cd0.png">
+  <br />
+</p>
 
+[OpenRazer](https://openrazer.github.io/) is a collection of Linux drivers for Razer devices - providing kernel drivers, DBus services and Python bindings to interact with the DBus interface.
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189784910-8704a50d-0a9b-454c-8a49-9f87127062b1.png">
+  <br />
+</p>
+
+[GX52](https://gitlab.com/leinardi/gx52) is a GTK application designed to provide control for the LEDs and MFD of Logitech X52 and X52 Pro H.O.T.A.S.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189784925-ebe6c07f-bfe4-441d-b705-1dc737fbacdf.png">
+  <br />
+</p>
+
+[Coolero](https://gitlab.com/coolero/coolero) is a program to monitor and control your cooling devices. It offers an easy-to-use user interface with various control features and also provides live thermal performance details.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189784926-67102123-7bb4-4ccd-9fde-c499780c45e5.gif">
+  <br />
+</p>
+ 
+[Piper](https://github.com/libratbag/piper/) is a frontend GTK application to configure gaming devices(mainly Gaming Mice).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189784915-770052d0-7764-41d8-8501-1b4404e716a3.png">
+  <br />
+</p>
+ 
+[StreamDeck-UI](https://timothycrosley.github.io/streamdeck-ui/) is a Linux compatible UI for the [Elgato Stream Deck](https://www.elgato.com/en/stream-deck).
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189784917-512c6757-4cc5-41bb-b9bb-9b1cd3500255.gif">
+  <br />
+</p>
+ 
+[Asusctl](https://asus-linux.org/) is a control daemon, CLI tools, and a collection of crates for interacting with ASUS ROG laptops.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189784927-21208072-450e-4018-a613-3e3156535cc4.png">
+  <br />
+</p>
 
 ## Performance Benchmarks
 [Back to the Top](#table-of-contents)

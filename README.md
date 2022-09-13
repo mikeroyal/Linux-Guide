@@ -425,6 +425,10 @@
 
  * [Ubuntu on AWS](https://ubuntu.com/aws)
 
+[CBL-Mariner](https://github.com/microsoft/CBL-Mariner) is an internal Linux distribution for Microsoft’s cloud infrastructure and edge products and services. CBL-Mariner is designed to provide a consistent platform for these devices and services and will enhance Microsoft’s ability to stay current on Linux updates. This initiative is part of Microsoft’s increasing investment in a wide range of Linux technologies, such as [SONiC](https://azure.microsoft.com/en-us/blog/sonic-the-networking-switch-software-that-powers-the-microsoft-global-cloud/), [Azure Sphere OS](https://docs.microsoft.com/en-us/azure-sphere/product-overview/what-is-azure-sphere) and [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/about). 
+
+[SONiC](https://azure.github.io/SONiC/) is an open source network operating system based on Linux that runs on switches from multiple vendors and ASICs. It offers a full-suite of network functionality, like BGP and RDMA, that has been production-hardened in the data centers of some of the largest cloud-service providers.
+
 [Azure Sphere](https://www.microsoft.com/en-us/azure-sphere/) is a secured, high-level application platform with built-in communication and security features for internet-connected devices. The platform consists of the integration of hardware built around a secured silicon chip; the Azure Sphere OS, a custom high-level Linux-based operating system; and the Azure Sphere Security Service, a cloud-based security service that provides continuous security.
 
  * [Ubuntu on Azure](https://ubuntu.com/azure)

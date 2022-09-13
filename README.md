@@ -12,6 +12,8 @@
  # Table of Contents
  
 1. [Linux Learning Resources](https://github.com/mikeroyal/Linux-Guide#linux-learning-resources)
+     * [Linux YouTube Channels](https://github.com/mikeroyal/Linux-Guide#linux-youtube-channels)
+     * [Linux Podcasts](https://github.com/mikeroyal/Linux-Guide#linux-podcasts)
 
 2. [Linux Destop Environments](https://github.com/mikeroyal/Linux-Guide#linux-desktop-environments)
 
@@ -128,6 +130,56 @@
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) is a cross-industry collaboration that brings together leaders to improve the security of open source software by building a broader community, targeted initiatives, and best practices. The OpenSSF brings together open source security initiatives under one foundation to accelerate work through cross-industry support. Along with the Core Infrastructure Initiative and the Open Source Security Coalition, and will include new working groups that address vulnerability disclosures, security tooling and more.
 
 [Free Software Foundation (FSF)](https://www.fsf.org/) is a nonprofit with a worldwide mission to promote computer user freedom.
+
+### Linux YouTube Channels
+
+[Back to the Top](#table-of-contents)
+
+ * [Jeff Geerling](https://www.youtube.com/c/JeffGeerling)
+
+ * [DistroTube](https://www.youtube.com/c/DistroTube)
+ 
+ * [Chris Titus Tech](https://www.youtube.com/c/ChrisTitusTech)
+ 
+ * [Level1Techs](https://www.youtube.com/c/Level1Techs)
+ 
+ * [Level1Linux](https://www.youtube.com/c/TekLinux)
+ 
+ * [The Linux Experiment](https://www.youtube.com/c/TheLinuxExperiment)
+ 
+ * [Learn Linux TV](https://www.youtube.com/c/LearnLinuxtv)
+ 
+ * [TechHut](https://www.youtube.com/c/TechHutHD)
+ 
+ * [Gardiner Bryant | TLG](https://www.youtube.com/c/GardinerBryant)
+ 
+ * [LinuxScoop](https://www.youtube.com/c/LinuxScoop)
+ 
+ * [Linux For Everyone](https://www.youtube.com/c/LinuxForEveryone)
+ 
+ * [InfinitelyGalactic](https://www.youtube.com/c/InfinitelyGalactic)
+ 
+ * [Diolinux(Brazil)](https://www.youtube.com/c/DiolinuxBr)
+ 
+ * [Switched to linux](https://www.youtube.com/c/SwitchedtoLinux)
+ 
+ * [DorianDotSlash](https://www.youtube.com/c/Doriandotslash)
+ 
+ * [This Week in Linux](https://www.youtube.com/c/TunnellVision)
+ 
+ * [The Linux Cast](https://www.youtube.com/c/TheLinuxCast)
+ 
+ ### Linux Podcasts
+ 
+ [Back to the Top](#table-of-contents)
+ 
+ * [Jupiter Broadcasting](https://www.youtube.com/c/JupiterBroadcasting)
+ 
+ * [Destination Linux](https://www.youtube.com/channel/UC6vBLLp4V4cO6-58WBOIO2Q)
+ 
+ * [Late Night Linux](https://www.youtube.com/c/LateNightLinux)
+ 
+ * [Linux Game Cast](https://www.youtube.com/c/linuxgamecast)
 
 # Linux Desktop Environments
 

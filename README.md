@@ -51,7 +51,7 @@
       * [Useful OBS Studio 3rd party Plugins & Themes](https://github.com/mikeroyal/Linux-Guide#useful-obs-studio-3rd-party-plugins-and-themes)
     
 8. [Gaming](https://github.com/mikeroyal/Linux-Guide#gaming)
-
+     
      - [Steam](https://github.com/mikeroyal/Linux-Guide#steam)
      - [ProtonDB](https://github.com/mikeroyal/Linux-Guide#protondb)
      - [Lutris](https://github.com/mikeroyal/Linux-Guide#lutris)
@@ -942,7 +942,7 @@ TLPUI
 ## Steam
 [Back to the Top](#table-of-contents)
 
-[Steam Flatpak](https://flathub.org/apps/details/com.valvesoftware.Steam) available in Fedora's GNOME Software Center.
+[Steam Flatpak](https://flathub.org/apps/details/com.valvesoftware.Steam) available on FlatHub.
 
 [Steam Remote Play Together](https://store.steampowered.com/remoteplay/#together) is a steam service that let's you share your Steam local multi-player games with friends over the internet, for free. Using Remote Play Together, one player owns and runs the game, then up to four players can join.
 
@@ -1171,8 +1171,16 @@ TLPUI
 </p>
 
 [OpenRazer](https://openrazer.github.io/) is a collection of Linux drivers for Razer devices - providing kernel drivers, DBus services and Python bindings to interact with the DBus interface.
+
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/189784910-8704a50d-0a9b-454c-8a49-9f87127062b1.png">
+  <br />
+</p>
+
+[OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) is a network-based Software Development Kit, which allows third-party software to control all of your RGB. This allows for game integrations, music visualization, ambient lighting, and anything else you can imagine. It supports ASUS, ASRock, Corsair, G.Skill, Gigabyte, HyperX, MSI, Razer, ThermalTake, and more.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189850391-73936b95-8996-44f3-8d81-bd0938a379fd.png">
   <br />
 </p>
 

@@ -406,6 +406,8 @@
  * [HP](https://hpdevone.com/)
 
  * [Dell](https://www.dell.com/en-us/work/shop/overview/cp/linuxsystems) 
+ 
+ * [Framework Laptop](https://frame.work/), Please note that you will have to install Linux on your device it does not ship with the laptop.
 
 # Linux in the Cloud
 
@@ -559,7 +561,7 @@
  Ungoogled-Chromium
 </p>
 
-[Vivaldi](https://vivaldi.com/) is a fast, private and secure web browser for PC, Mac and mobile. It comes with built-in features like Notes, Screen Capture, Image Properties and (a lot) more.
+[Vivaldi](https://vivaldi.com/) is a fast, private and secure web browser for PC, Mac and mobile. It comes with built-in features like Notes, Screen Capture, Image Properties and (a lot) more. Please note that Vivaldi is proprietary and not open source.
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/158266396-25f48ceb-9868-4d8f-80a3-30bbd0bbf092.png">

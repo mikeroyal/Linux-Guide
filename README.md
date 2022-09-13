@@ -66,6 +66,9 @@
      - [Game Streaming](https://github.com/mikeroyal/Linux-Guide#game-streaming)
      - [Game Emulators](https://github.com/mikeroyal/Linux-Guide#game-emulators)
      - [Hardware Performance(CPU, GPU, Gaming Peripherals)](https://github.com/mikeroyal/Linux-Guide#hardware-performancecpu-gpu-gaming-peripherals)
+         * [NVIDIA](https://github.com/mikeroyal/Linux-Guide#NVIDIA)
+         * [AMD](https://github.com/mikeroyal/Linux-Guide#AMD)
+         * [Gaming Peripherals](https://github.com/mikeroyal/Linux-Guide#Gaming-Peripherals)
      - [Performance Benchmarks](https://github.com/mikeroyal/Linux-Guide#performance-benchmarks)
      - [WINE](https://github.com/mikeroyal/Linux-Guide#wine)
      
@@ -105,19 +108,19 @@
 
 [Back to the Top](https://github.com/mikeroyal/Linux-Guide#table-of-contents)
 
-[A Brief History of Linux](https://www.digitalocean.com/community/tutorials/brief-history-of-linux)
+ * [A Brief History of Linux](https://www.digitalocean.com/community/tutorials/brief-history-of-linux)
 
-[Contribute to FOSS](https://github.com/KillYourFM/contribute-foss) by Jason Evangelho, is an entensive Wiki page on how to contribute to the Linux and FOSS community.
+ * [Contribute to FOSS](https://github.com/KillYourFM/contribute-foss) by Jason Evangelho, is an entensive Wiki page on how to contribute to the Linux and FOSS community.
 
-[The Open Source Computer Science Degree by Forrest Knight](https://github.com/ForrestKnight/open-source-cs)
+ * [The Open Source Computer Science Degree by Forrest Knight](https://github.com/ForrestKnight/open-source-cs)
 
-[My Windows Subsystem for Linux(WSL) Guide](https://github.com/mikeroyal/WSL-Guide)
+ * [My Windows Subsystem for Linux(WSL) Guide](https://github.com/mikeroyal/WSL-Guide)
 
-[A Cloud Guru Linux Training Certifictions](https://acloudguru.com/linux-training)
+ * [SUSE Training and Certification Program](https://training.suse.com/)
+ 
+ * [Red Hat Training and Certification Program](https://www.redhat.com/en/services/training-and-certification)
 
-[Red Hat Training and Certification Program](https://www.redhat.com/en/services/training-and-certification)
-
-[Linux Foundation Training and Certification Program](https://training.linuxfoundation.org/certification/)
+ * [Linux Foundation Training and Certification Program](https://training.linuxfoundation.org/certification/)
 
 [Linux Professional Institute(LPI)](https://www.lpi.org) is a non profit organization. Linux Professional Institute (LPI) is the global certification standard and career support organization for open source professionals. With more than 175,000 certification holders, it's the world's first and largest vendor-neutral Linux and open source certification body.
 
@@ -467,6 +470,8 @@
 ## Flatpaks
 
 [FlatHub](https://flathub.org/) is a build and distribution service for Flatpak applications.
+
+[Flatseal](https://github.com/tchx84/flatseal) is a graphical utility to review and modify permissions from your [Flatpak](https://flatpak.org/) applications. [Get it on Flathub store](https://flathub.org/apps/details/com.github.tchx84.Flatseal).
 
 [FlatHub Forum](https://discourse.flathub.org/)
 
@@ -929,7 +934,7 @@ TLPUI
   <br />
 </p>
 
-### Linux Gaming Resources
+### Linux Gaming Resources & Tweak Tools
  
  * [GamingOnLinux](https://www.gamingonlinux.com/)
  * [BoilinSteam](https://boilingsteam.com/)
@@ -1159,9 +1164,31 @@ TLPUI
 ## Hardware Performance(CPU, GPU, Gaming Peripherals)
 [Back to the Top](#table-of-contents)
 
-[GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe) is a GTK system utility designed by Roberto Leinardi to provide information, control the fans and overclock your NVIDIA video card for better performance. Available in the Pop Shop as a Flatpak.
+### NVIDIA
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189858113-0d681062-8bd5-4db9-b92b-71bec318f2f5.png">
+  <br />
+</p>
+
+ * [NVIDIA Linux Open GPU Kernel Module Source](https://github.com/NVIDIA/open-gpu-kernel-modules)
+
+[GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe) is a GTK system utility designed by Roberto Leinardi to provide information, control the fans and overclock your NVIDIA video card for better performance. Available as a [Flatpak on FlatHub](https://flathub.org/apps/details/com.leinardi.gwe).
 
  <img src="https://user-images.githubusercontent.com/45159366/107091994-89974380-67b7-11eb-85ed-eedec7e3dfbf.png">
+ 
+ ### AMD 
+ [Back to the Top](#table-of-contents)
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/189858129-994ab389-e489-436c-880a-266194c0c6d6.png">
+  <br />
+</p>
+ 
+AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. FSR enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
+
+[AMD FidelityFX Super Resolution (FSR) 2.0](https://www.amd.com/en/press-releases/2022-03-17-introducing-amd-software-adrenalin-edition-2022-release-and-amd) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It uses temporal data and optimized anti-aliasing to boost framerates in supported games while delivering similar or better image quality than native resolution without requiring dedicated machine learning hardware. AMD FSR 2.0 will be available some time Q2 2022.
 
 [CoreCtrl](https://gitlab.com/corectrl/corectrl) is a free and open source Linux application that allows you to control your computer hardware with ease using application profiles for native and Windows applications, has basic CPU controls and full AMD GPUs controls (for both old and new models). 
 
@@ -1169,6 +1196,9 @@ TLPUI
  <img src="https://user-images.githubusercontent.com/45159366/107092000-8b610700-67b7-11eb-86f7-6fcb3d017cd0.png">
   <br />
 </p>
+
+### Gaming Peripherals
+[Back to the Top](#table-of-contents)
 
 [OpenRazer](https://openrazer.github.io/) is a collection of Linux drivers for Razer devices - providing kernel drivers, DBus services and Python bindings to interact with the DBus interface.
 
@@ -1218,6 +1248,10 @@ TLPUI
  <img src="https://user-images.githubusercontent.com/45159366/189784927-21208072-450e-4018-a613-3e3156535cc4.png">
   <br />
 </p>
+
+[MangoHud](https://github.com/flightlessmango/MangoHud) is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
+
+[GOverlay](https://github.com/benjamimgois/goverlay) is an open source project aimed to create a Graphical UI to manage Vulkan/OpenGL overlays. It is still in early development.
 
 ## Performance Benchmarks
 [Back to the Top](#table-of-contents)

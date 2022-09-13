@@ -1186,9 +1186,9 @@ TLPUI
   <br />
 </p>
  
-AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. FSR enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
+[AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. FSR enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
 
-[AMD FidelityFX Super Resolution (FSR) 2.0](https://www.amd.com/en/press-releases/2022-03-17-introducing-amd-software-adrenalin-edition-2022-release-and-amd) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It uses temporal data and optimized anti-aliasing to boost framerates in supported games while delivering similar or better image quality than native resolution without requiring dedicated machine learning hardware. AMD FSR 2.0 will be available some time Q2 2022.
+[AMD FidelityFX Super Resolution (FSR) 2.0](https://www.amd.com/en/press-releases/2022-03-17-introducing-amd-software-adrenalin-edition-2022-release-and-amd) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It uses temporal data and optimized anti-aliasing to boost framerates in supported games while delivering similar or better image quality than native resolution without requiring dedicated machine learning hardware. AMD FSR 2.0 will be available in Q2 2022.
 
 [CoreCtrl](https://gitlab.com/corectrl/corectrl) is a free and open source Linux application that allows you to control your computer hardware with ease using application profiles for native and Windows applications, has basic CPU controls and full AMD GPUs controls (for both old and new models). 
 

@@ -12,7 +12,7 @@
  # Table of Contents
  
 1. [Linux Learning Resources](https://github.com/mikeroyal/Linux-Guide#linux-learning-resources)
-     * [Linux Software Package Managers and Tools](https://github.com/mikeroyal/Linux-Guide#Linux-Software-Package-managers-and-tools)
+     * [Linux Software Repositories & Package Managers](https://github.com/mikeroyal/Linux-Guide#linux-software-repositories--package-managers)
      * [Systemd](https://github.com/mikeroyal/Linux-Guide#systemd)
      * [Linux YouTube Channels](https://github.com/mikeroyal/Linux-Guide#linux-youtube-channels)
      * [Linux Podcasts](https://github.com/mikeroyal/Linux-Guide#linux-podcasts)
@@ -136,7 +136,7 @@
 
 [Free Software Foundation (FSF)](https://www.fsf.org/) is a nonprofit with a worldwide mission to promote computer user freedom.
 
-### Linux Software Package Managers and Tools
+### Linux Software Repositories & Package Managers
 [Back to the Top](#table-of-contents)
 
 [DEB](https://www.debian.org/distrib/packages) is a Debian Software Package file used on Debian-based Linux systems such Debian, Ubuntu, Linux Mint, and Pop!_OS.

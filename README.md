@@ -12,6 +12,8 @@
  # Table of Contents
  
 1. [Linux Learning Resources](https://github.com/mikeroyal/Linux-Guide#linux-learning-resources)
+     * [Linux Software Package Managers and Tools](https://github.com/mikeroyal/Linux-Guide#Linux-Software-Package-managers-and-tools)
+     * [Systemd](https://github.com/mikeroyal/Linux-Guide#systemd)
      * [Linux YouTube Channels](https://github.com/mikeroyal/Linux-Guide#linux-youtube-channels)
      * [Linux Podcasts](https://github.com/mikeroyal/Linux-Guide#linux-podcasts)
 
@@ -133,6 +135,32 @@
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) is a cross-industry collaboration that brings together leaders to improve the security of open source software by building a broader community, targeted initiatives, and best practices. The OpenSSF brings together open source security initiatives under one foundation to accelerate work through cross-industry support. Along with the Core Infrastructure Initiative and the Open Source Security Coalition, and will include new working groups that address vulnerability disclosures, security tooling and more.
 
 [Free Software Foundation (FSF)](https://www.fsf.org/) is a nonprofit with a worldwide mission to promote computer user freedom.
+
+### Linux Software Package Managers and Tools
+[Back to the Top](#table-of-contents)
+
+[DEB](https://www.debian.org/distrib/packages) is a Debian Software Package file used on Debian-based Linux systems such Debian, Ubuntu, Linux Mint, and Pop!_OS.
+
+[PPA(Personal Package Archive)](https://help.launchpad.net/Packaging/PPA) is a set of software repositories that can distribute software and updates directly to Ubuntu users. Create your source package, upload it and Launchpad will build binaries and then host them in your own apt repository.
+
+[RPM Package Manager (RPM)](https://rpm.org/) is a powerful package management system capable of building computer software from source into easily distributable packages installing, updating and uninstalling packaged software querying detailed information about the packaged software, whether installed or not.
+
+[RPM Fusion](https://rpmfusion.org/) is a software repository provides software that the Fedora Project or Red Hat doesn't want to ship. That software is provided as precompiled RPMs for all current Fedora versions and current Red Hat Enterprise Linux or clones versions; you can use the RPM Fusion repositories with tools like yum and PackageKit.
+
+[rpm-ostree](https://ostreedev.github.io/ostree/) is a hybrid image/package system. It combines libostree as a base image format, and accepts RPM on both the client and server side, sharing code with the dnf project; specifically libdnf. Thus bringing many of the benefits of both projects together.
+
+[YaST](https://yast.opensuse.org/) is a installation and configuration tool for openSUSE and the SUSE Linux Enterprise distributions. It features an easy-to-use interface and powerful configuration capabilities.
+
+[Zypper](https://software.opensuse.org/package/zypper) is a command line package manager which makes use of libzypp. It provides functions like repository access, dependency solving, package installation, etc. Zypper repositories are similar to the ones used in YaST, which also makes use of libzypp.
+
+[Arch Linux User Repository (AUR)](https://aur.archlinux.org/) is a software repository that contains thousands build scripts, for compiling nearly 68,000 installable packages from source using the Arch Linux makepkg application.
+
+### Systemd
+[Back to the Top](#table-of-contents)
+
+[systemd](https://systemd.io/) is a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system. It provides aggressive parallelization capabilities, uses socket and D-Bus activation for starting services, offers on-demand starting of daemons, keeps track of processes using Linux control groups, maintains mount and automount points, and implements an elaborate transactional dependency-based service control logic. systemd supports SysV and LSB init scripts and works as a replacement for sysvinit.
+
+[init](https://en.wikipedia.org/wiki/Init) is parent of all Linux processes with PID or process ID of 1. It is the first process to start when a computer boots up and runs until the system shuts down. init stands for initialization. 
 
 ### Linux YouTube Channels
 

@@ -70,6 +70,7 @@
      - [Hardware Performance(CPU, GPU, Gaming Peripherals)](https://github.com/mikeroyal/Linux-Guide#hardware-performancecpu-gpu-gaming-peripherals)
          * [NVIDIA](https://github.com/mikeroyal/Linux-Guide#NVIDIA)
          * [AMD](https://github.com/mikeroyal/Linux-Guide#AMD)
+         * [Intel ARC](https://github.com/mikeroyal/Linux-Guide#Intel-Arc)
          * [Gaming Peripherals](https://github.com/mikeroyal/Linux-Guide#Gaming-Peripherals)
      - [Performance Benchmarks](https://github.com/mikeroyal/Linux-Guide#performance-benchmarks)
      - [WINE](https://github.com/mikeroyal/Linux-Guide#wine)
@@ -1230,6 +1231,37 @@ TLPUI
  <img src="https://user-images.githubusercontent.com/45159366/107092000-8b610700-67b7-11eb-86f7-6fcb3d017cd0.png">
   <br />
 </p>
+
+### Intel ARC
+[Back to the Top](#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/190093904-20680f0b-a387-4a48-9c43-de8d5f0b5d2e.png">
+  <br />
+</p>
+
+**Version requirements for DG2/Alchemist hardware on Linux:**
+
+* **[Linux Kernel 6.0 or newer](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git)**
+* **[Mesa 22.2 or newer](https://gitlab.freedesktop.org/mesa/mesa/-/tree/22.2)** for ANV Vulkan and Iris OpenGL will in turn work out-of-the-box with current cards when booting with the necessary kernel support in place.
+* **[Latest linux-firmware.git](https://git.kernel.org/pub/scm/linux/kernel/git/firmware/linux-firmware.git)** for the very latest GuC firmware support.
+
+**Note:** With Linux 6.0 the DG2 class support is not exposed by default but requires setting the **i915.force_probe=[PCI-ID] module option** to force the driver to initialize the graphics card. With better driver support coming in Kernel 6.1.
+
+**On Debian-based systems:**
+
+```sudo dmesg | grep -i i915```
+
+**On Arch Linux-based systems:**
+
+```su dmesg | grep -i i915```
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/190093928-ca15e58b-f830-47f5-b66b-19219d160178.png">
+  <br />
+</p>
+
+Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/arc.html)
 
 ### Gaming Peripherals
 [Back to the Top](#table-of-contents)

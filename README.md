@@ -1257,7 +1257,7 @@ TLPUI
  [Back to the Top](#table-of-contents)
  
  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/189858129-994ab389-e489-436c-880a-266194c0c6d6.png">
+ <img src="https://user-images.githubusercontent.com/45159366/190588167-4fd0bd50-cd43-47f1-b28f-16f70a243549.png">
   <br />
 </p>
  

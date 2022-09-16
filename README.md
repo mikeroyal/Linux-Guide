@@ -140,19 +140,47 @@
 ### Linux Software Repositories & Package Managers
 [Back to the Top](#table-of-contents)
 
+[dpkg(Debian Package)](https://www.digitalocean.com/community/tutorials/dpkg-command-in-linux) is the package management system in Debian and its OS derivatives. 
+
 [DEB](https://www.debian.org/distrib/packages) is a Debian Software Package file used on Debian-based Linux systems such Debian, Ubuntu, Linux Mint, and Pop!_OS.
+
+[APT (Advanced Package Tool)](https://en.wikipedia.org/wiki/APT_(software)) is a higher-level package management systemtool, that is more commonly used than dpkg as it can fetch packages from remote locations.
+
+[Nala](https://gitlab.com/volian/nala) is a commandline frontend for the APT package manager. 
+
+[Synaptic Package Manager](https://en.wikipedia.org/wiki/Synaptic_%28software%29) is a graphical package management tool based on APT. 
 
 [PPA(Personal Package Archive)](https://help.launchpad.net/Packaging/PPA) is a set of software repositories that can distribute software and updates directly to Ubuntu users. Create your source package, upload it and Launchpad will build binaries and then host them in your own apt repository.
 
+[PackageKit](https://www.freedesktop.org/software/PackageKit/) is a suite of software applications designed to provide a consistent and high-level front end for a number of different package management systems on Linux. 
+
+[EPEL (Extra Packages for Enterprise Linux)](https://docs.fedoraproject.org/en-US/epel/) is an free and open source community-based repository project from the Fedora team which provides 100% high-quality add-on software packages for Linux distribution including RHEL (Red Hat Enterprise Linux) and CentOS Stream.
+
+[DNF(Dandified Packaging Tool)](https://docs.fedoraproject.org/en-US/quick-docs/dnf/) is a software package manager that installs, updates, and removes packages on Fedora and is the successor to YUM (Yellow-Dog Updater Modified). DNF makes it easy to maintain packages by automatically checking for dependencies and determines the actions required to install packages.
+
+[Micro DNF](https://fedoraproject.org/wiki/Changes/MajorUpgradeOfMicrodnf) is a lightweight C implementation of DNF, designed to be used for doing simple packaging actions when you don't need full-blown DNF and you want the tiniest useful environments possible. Checkout the [Micro DNF GitHub](https://github.com/rpm-software-management/microdnf).
+
+[Fedora Updates System](https://bodhi.fedoraproject.org/) is a place to create, test, and publish package updates for Fedora.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/45159366/168177134-85efb869-c2d5-4d7a-9a53-a3f61a2d74e2.png">
+<br />
+Fedora Updates System
+</p>
+
 [RPM Package Manager (RPM)](https://rpm.org/) is a powerful package management system capable of building computer software from source into easily distributable packages installing, updating and uninstalling packaged software querying detailed information about the packaged software, whether installed or not.
+
+[YUM (Yellowdog Updater, Modified)](https://www.digitalocean.com/community/tutorials/what-is-yum) is a software package-management utility for Linux operating system using the RPM Package Manager.
 
 [RPM Fusion](https://rpmfusion.org/) is a software repository provides software that the Fedora Project or Red Hat doesn't want to ship. That software is provided as precompiled RPMs for all current Fedora versions and current Red Hat Enterprise Linux or clones versions; you can use the RPM Fusion repositories with tools like yum and PackageKit.
 
-[rpm-ostree](https://ostreedev.github.io/ostree/) is a hybrid image/package system. It combines libostree as a base image format, and accepts RPM on both the client and server side, sharing code with the dnf project; specifically libdnf. Thus bringing many of the benefits of both projects together.
+[ROM OSTree](https://ostreedev.github.io/ostree/) is a hybrid image/package system. It combines libostree as a base image format, and accepts RPM on both the client and server side, sharing code with the dnf project; specifically libdnf. Thus bringing many of the benefits of both projects together.
 
 [YaST](https://yast.opensuse.org/) is a installation and configuration tool for openSUSE and the SUSE Linux Enterprise distributions. It features an easy-to-use interface and powerful configuration capabilities.
 
 [Zypper](https://software.opensuse.org/package/zypper) is a command line package manager which makes use of libzypp. It provides functions like repository access, dependency solving, package installation, etc. Zypper repositories are similar to the ones used in YaST, which also makes use of libzypp.
+
+[Pacman](https://archlinux.org/pacman/) is a utility which manages software packages in Arch Linux. It uses simple compressed files as a package format, and maintains a text-based package database (more of a hierarchy), just in case some hand tweaking is necessary. 
 
 [Arch Linux User Repository (AUR)](https://aur.archlinux.org/) is a software repository that contains thousands build scripts, for compiling nearly 68,000 installable packages from source using the Arch Linux makepkg application.
 

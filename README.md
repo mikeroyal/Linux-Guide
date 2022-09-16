@@ -1233,15 +1233,27 @@ TLPUI
   <br />
 </p>
  
-[AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. FSR enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
+* **[AMD FidelityFX Super Resolution (FSR)](https://www.amd.com/en/technologies/radeon-software-fidelityfx)** is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. FSR enables “practical performance” for costly render operations, such as hardware ray tracing for the AMD RDNA™ and AMD RDNA™ 2 architectures.
 
-[AMD FidelityFX Super Resolution (FSR) 2.0](https://www.amd.com/en/press-releases/2022-03-17-introducing-amd-software-adrenalin-edition-2022-release-and-amd) is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It uses temporal data and optimized anti-aliasing to boost framerates in supported games while delivering similar or better image quality than native resolution without requiring dedicated machine learning hardware. AMD FSR 2.0 will be available in Q2 2022.
+* **[AMD FidelityFX Super Resolution (FSR) 2.0](https://www.amd.com/en/press-releases/2022-03-17-introducing-amd-software-adrenalin-edition-2022-release-and-amd)** is an open source, high-quality solution for producing high resolution frames from lower resolution inputs. It uses temporal data and optimized anti-aliasing to boost framerates in supported games while delivering similar or better image quality than native resolution without requiring dedicated machine learning hardware. AMD FSR 2.0 will be available in Q2 2022.
 
-[CoreCtrl](https://gitlab.com/corectrl/corectrl) is a free and open source Linux application that allows you to control your computer hardware with ease using application profiles for native and Windows applications, has basic CPU controls and full AMD GPUs controls (for both old and new models). 
+* **[AMD Open Source Driver for Vulkan®](https://github.com/GPUOpen-Drivers/AMDVLK)** is an open-source Vulkan driver for Radeon™ graphics adapters on Linux®. It is built on top of AMD's Platform Abstraction Library (PAL), a shared component that is designed to encapsulate certain hardware and OS-specific programming details for many of AMD's 3D and compute drivers. 
+
+* **[Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/learn/radeon-memory-visualizer-on-linux/)** is a powerful tool that allows users to analyze video memory usage on AMD Radeon GPUs.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/107092000-8b610700-67b7-11eb-86f7-6fcb3d017cd0.png">
+ <img src="https://user-images.githubusercontent.com/45159366/190555167-e1293b98-eaf1-4df0-815c-88569b8dfe23.png">
   <br />
+  Radeon™ Memory Visualizer (RMV)
+</p>
+
+
+* **[CoreCtrl](https://gitlab.com/corectrl/corectrl)** is a free and open source Linux application that allows you to control your computer hardware with ease using application profiles for native and Windows applications, along with basic CPU controls and full AMD GPUs controls (for both old and new models). 
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/190553872-1111d52c-dc73-4868-8e27-60a8d0f57937.png">
+  <br />
+  CoreCtrl
 </p>
 
 ### Intel ARC

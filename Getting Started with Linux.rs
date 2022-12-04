@@ -1,6 +1,10 @@
 Scripts coming soon!
 
-# Setting up Debian/Ubuntu
+# Setting up Debian
+
+
+
+# Setting up Ubuntu
 
 
 

@@ -1344,14 +1344,14 @@ Nintendo 3DS
 
 **Features:**
 
-    * Nearly complete core (CPU, video, audio, etc...)
-    * OpenGL renderer, 3D upscaling
-    * RTC, microphone, lid close/open
-    * Joystick support
-    * Savestates
-    * Various display position/sizing/rotations modes
-    * Work-in-progress Wi-Fi emulation for online connectivity and local multiplayer
-    * Experimental emulation of the Nintendo DSi
+   * Nearly complete core (CPU, video, audio, etc...)
+   * OpenGL renderer, 3D upscaling
+   * RTC, microphone, lid close/open
+   * Joystick support
+   * Savestates
+   * Various display position/sizing/rotations modes
+   * Work-in-progress Wi-Fi emulation for online connectivity and local multiplayer
+   * Experimental emulation of the Nintendo DSi
 
 ### Super Nintendo Entertainment System (SNES)
 

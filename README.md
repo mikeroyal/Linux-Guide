@@ -65,8 +65,28 @@
         * [GOG Galaxy integration](https://github.com/mikeroyal/Linux-Guide#GOG-Galaxy-integration)
      - [GameHub](https://github.com/mikeroyal/Linux-Guide#gamehub)
      - [Epic Games Store](https://github.com/mikeroyal/Linux-Guide#epic-games-store)
-     - [Game Streaming](https://github.com/mikeroyal/Linux-Guide#game-streaming)
-     - [Game Emulators](https://github.com/mikeroyal/Linux-Guide#game-emulators)
+     - [Game Streaming](#Game-streaming)
+     * [Cloud Game Streaming](#Cloud-Game-Streaming)
+     * [Local Game Streaming](#Local-Game-Streaming)
+     - [Game Emulators](#Game-emulators)
+     * [Emulator Frontends](#Frontends)
+     * [Nintendo GameCube & Wii](#Nintendo-GameCube--Wii)
+     * [Nintendo Switch](#Nintendo-Switch)
+     * [Nintendo 64](#Nintendo-64)
+     * [Nintendo 3DS](#Nintendo-3DS)
+     * [Nintendo DS](#Nintendo-DS)
+     * [Super Nintendo Entertainment System (SNES)](#Super-Nintendo-Entertainment-System-SNES)
+     * [Nintendo Entertainment System (NES)](#Nintendo-Entertainment-System)
+     * [Game Boy Advance](#Game-Boy-Advance)
+     * [DOS](#DOS)
+     * [Atari](#Atari)
+     * [Sega Dreamcast](#Sega-Dreamcast)
+     * [PlayStation Portable](#PlayStation-Portable)
+     * [PlayStation 1](#PlayStation-1)
+     * [PlayStation 2](#PlayStation-2)
+     * [PlayStation 3](#PlayStation-3)
+     * [Xbox](#Xbox)
+     * [MAME](#MAME)
      - [Hardware Performance(CPU, GPU, Gaming Peripherals)](https://github.com/mikeroyal/Linux-Guide#hardware-performancecpu-gpu-gaming-peripherals)
          * [NVIDIA](https://github.com/mikeroyal/Linux-Guide#NVIDIA)
          * [AMD](https://github.com/mikeroyal/Linux-Guide#AMD)
@@ -1177,94 +1197,68 @@ TLPUI
 ## Game Streaming
 [Back to the Top](#table-of-contents)
 
-[Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) is NVIDIA's Cloud Gaming Service.
+### Cloud Game Streaming
 
- <img src="https://user-images.githubusercontent.com/45159366/106686391-0f7c7a00-657f-11eb-9d0b-1ebb4d385883.jpeg">
+[Back to the Top](#table-of-contents)
 
-[Moonlight Game Streaming](https://moonlight-stream.org/) is a program that let you stream from your PC games over the Internet with no configuration required. Stream from almost any device, whether you're in another room or miles away from your gaming rig.
-
-<img src="https://user-images.githubusercontent.com/45159366/106686398-11463d80-657f-11eb-841a-d534829ccc3d.png">
-
-[Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) is a Free and Open Source Software Client for PlayStation 4 and PlayStation 5 Remote Play for Linux, FreeBSD, OpenBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms. [Chiaki Flatpak](https://flathub.org/apps/details/re.chiaki.Chiaki)
-
-[Xbox Cloud Gaming](https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming) is Microsoft's cloud-based Xbox game-streaming technology **(currently in Beta)**. **Play games like Forza Horizon 4, Halo 5: Guardians, Gears of War 4, Sea of Thieves, Cuphead, Red Dead Redemption 2, and 100+ other games on your mobile device or Chrome web browser**. Xbox Cloud Gaming does require an [Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming) subscription.
+[Xbox Cloud Gaming](https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming) is Microsoft's cloud-based Xbox game-streaming technology **(currently in Beta)**. **Play games like Forza Horizon 4, Halo 5: Guardians, Gears of War 4, Sea of Thieves, Cuphead, Red Dead Redemption 2, and 100+ other games on your mobile device or Chrome web browser**. Xbox Cloud Gaming does require an **[Xbox Game Pass Ultimate](https://www.xbox.com/en-US/xbox-game-pass/cloud-gaming)** subscription.
 
 <img src="https://user-images.githubusercontent.com/45159366/108111388-74d56e00-7049-11eb-8aeb-3e5d65f9e832.png">
 
-[Stadia](https://stadia.google.com/games) is Google's gaming platform that lets you instantly play your favorite video games on screens you already own. Game on TVs with Chromecast with Google TV, laptops, desktops, tablets or compatible phones. [Stadia Pro](https://stadia.google.com/) is a subscription($9.99 per month) that unlocks a growing collection of free games to play on Stadia. 
+[Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) is NVIDIA's Cloud Gaming Service.
+
+<img src="https://user-images.githubusercontent.com/45159366/106686391-0f7c7a00-657f-11eb-9d0b-1ebb4d385883.jpeg">
+
+[Amazon Luna](https://www.amazon.com/luna/landing-page) is Amazon's Cloud Gaming Service. Amazon Luna is Compatible/Supported on a vartiey of [Devices and Browsers](https://www.amazon.com/gp/help/customer/display.html?nodeId=GUFHUSX8X324T4XE).
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/162089471-3eb27f98-2366-4117-9af5-93bb126a2c37.png">
+  <img src="https://user-images.githubusercontent.com/45159366/112693072-364b8400-8e3d-11eb-9df0-d58af7ac9c9c.png">
+</p>
+
+[Shadow](https://shadow.tech/) is a fully-featured, cloud-based, high-end computer. It is the only remote service that offers performance capable of competing with a local PC. Available on Windows, macOS, Linux, Android/AndroidTV, and iOS/tvOS.
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/200110962-dd631248-7a13-48bb-9b5a-acbbf8550e16.png">
+</p>
+
+### Local Game Streaming
+
+[Back to the Top](#table-of-contents)
+
+[Steam Remote Play Together](https://store.steampowered.com/remoteplay/#together) is a steam service that let's you share your Steam local multi-player games with friends over the internet, for free. Using Remote Play Together, one player owns and runs the game, then up to four players can join.
+
+[Steam Link app](https://store.steampowered.com/steamlink/about) is available free of charge, streaming your Steam PC games to phones, tablets, and TV.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/112692999-14ea9800-8e3d-11eb-964a-6bee4e665900.png">
+</p>
+
+[Chiaki](https://git.sr.ht/~thestr4ng3r/chiaki) is a Free and Open Source Software Client for **PlayStation 4 and PlayStation 5 Remote Play** for Linux, FreeBSD, OpenBSD, Android, macOS, Windows, Nintendo Switch and potentially even more platforms. [Chiaki Flatpak](https://flathub.org/apps/details/re.chiaki.Chiaki)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/208854787-3442b9df-60bc-4ed2-87e3-efaa159a6b7f.png">
 </p>
 
 [Parsec](https://parsec.app/cloud-gaming) is a video game streaming platform, which offers a wide variety of games and genres to choose from and provides a high-quality and smooth gameplay. SParsec is developed in order to provide a high-quality smooth gameplay, same time to be free of all ads and in-game purchases.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/166166858-e70ca081-8931-46f3-9dc3-fe9c719d76f8.png">
+  <img src="https://user-images.githubusercontent.com/45159366/166166858-e70ca081-8931-46f3-9dc3-fe9c719d76f8.png">
 </p>
 
-[Amazon Luna](https://www.amazon.com/luna/landing-page) is Amazon's Cloud Gaming Service. Amazon Luna is Compatible/Supported on a vartiey of [Devices and Browsers](https://www.amazon.com/gp/help/customer/display.html?nodeId=GUFHUSX8X324T4XE).
+[Moonlight Game Streaming](https://moonlight-stream.org/) is a program that let you stream from your PC games over the Internet with no configuration required. Stream from almost any device, whether you're in another room or miles away from your gaming rig. [Sunshine](https://github.com/LizardByte/Sunshine) is a **Game stream host for Moonlight** that is a self-hosted, low latency, cloud gaming solution with support for AMD, Intel, and NVIDIA GPUs.
 
 <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/112693072-364b8400-8e3d-11eb-9df0-d58af7ac9c9c.png">
+  <img src="https://user-images.githubusercontent.com/45159366/106686398-11463d80-657f-11eb-841a-d534829ccc3d.png">
 </p>
 
 ## Game Emulators
 [Back to the Top](#table-of-contents)
 
-[EmulationStation Desktop Edition (ES-DE)](https://www.es-de.org/) is a frontend application for browsing and launching games from your multi-platform game collection. It's  available for Unix/Linux, macOS(M1 & Intel) and Windows.
-
-[Pegasus](https://pegasus-frontend.org/) is a cross platform, customizable graphical frontend for launching emulators and managing your game library (especially retro games) and launching them from one place. It's focused on customizability, cross platform support (including embedded devices) and high performance.
-
-[RetroPie](https://retropie.org.uk/) is a frontend for emulators that allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, [EmulationStation](https://github.com/Aloshi/EmulationStation), RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up.
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/45159366/153087555-e1bde100-6079-4089-a33d-804e29064789.png">
-<br />
-</p>
-
-[RetroArch](https://www.retroarch.com/) is a frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all. [RetroArch Flatpak](https://flathub.org/apps/details/org.libretro.RetroArch)
-
-[Dolphin](https://dolphin-emu.org) is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more. [Dolphin Flatpak](https://flathub.org/apps/details/org.DolphinEmu.dolphin-emu)
-
-[Citra](https://citra-emu.org/) is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games. [Citra Flatpak](https://flathub.org/apps/details/org.citra_emu.citra)
-
-[yuzu](https://yuzu-emu.org) is an experimental open-source emulator for the Nintendo Switch from the creators of Citra.[Yuzu Flatpak](https://flathub.org/apps/details/org.yuzu_emu.yuzu)
-
-[m64p](https://m64p.github.io/) is a Nintendo 64 Emulator. It uses mupen64plus-gui, a brand new mupen64plus frontend written in Qt5. It supports all of the things you’d expect from a frontend (savestate management, pausing, screenshots). [m64p Flatpak](https://flathub.org/apps/details/io.github.m64p.m64p)
-
-[DeSmuME](https://desmume.org/) is a Nintendo DS emulator. [DeSmuME Flatpak](https://flathub.org/apps/details/org.desmume.DeSmuME)
-
-[Snes9x](https://www.snes9x.com/) is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. [Snes9x Flatpak](https://flathub.org/apps/details/com.snes9x.Snes9x) 
-
-[bsnes](https://github.com/bsnes-emu/bsnes) is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use. [bsnes flatpak](https://flathub.org/apps/details/dev.bsnes.bsnes)
-
-[mGBA](https://mgba.io/) is a new emulator for running Game Boy Advance games. It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack. [mGBA Flatpak](https://flathub.org/apps/details/io.mgba.mGBA)
-
-[DOSBox](https://www.dosbox.com/) is an open-source DOS emulator which primarily focuses on running DOS Games.
-
-[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode. [DOSBox Staging Flatpak](https://flathub.org/apps/details/io.github.dosbox-staging)
-
-[Flycast](https://github.com/flyinghead/flycast) is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast. [Flycast Flatpak](https://flathub.org/apps/details/org.flycast.Flycast)
-
-[DuckStation](https://www.duckstation.org/) is an simulator/emulator of the Sony PlayStation 1 console, focusing on playability, speed, and long-term maintainability. [Available as a Flatpak on Flathub](https://flathub.org/apps/details/org.duckstation.DuckStation).
-
-[PCSX2](https://pcsx2.net/) is a PlayStation 2 'emulator', a free program that tries to replicate the PlayStation 2 console to enable you to play PS2 games on your PC. [PCSX2 Flatpak](https://flathub.org/apps/details/net.pcsx2.PCSX2)
-
-[RPCS3](https://rpcs3.net/) is an experimental open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows and Linux. RPCS3 started development in May of 2011 by its founders DH and Hykem. The emulator is currently capable of running over 1800 commercial titles powered by Vulkan and OpenGL. [RPCS3 Flatpak](https://flathub.org/apps/details/net.rpcs3.RPCS3)
-
-[MAME](https://www.mamedev.org/) is a Arcade Machine Emulator.
-
-[xemu](https://xemu.app/) is an original Xbox emulator.
-
-[Xenia](https://github.com/xenia-project/xenia) is an Xbox 360 Emulator.
-
 **Also checkout these subreddits for more great Game Emulators recommendations**
-
+  
    - [r/emulation](https://www.reddit.com/r/emulation/)
    - [r/emulations](https://www.reddit.com/r/emulators/)
    - [r/RetroArch](https://www.reddit.com/r/RetroArch/)
-   - [r/RetroPie](https://www.reddit.com/r/RetroPie/)
    - [r/DolphinEmulator](https://www.reddit.com/r/DolphinEmulator/)
    - [r/Citra](https://www.reddit.com/r/Citra/)
    - [r/cemu](https://www.reddit.com/r/cemu/)
@@ -1273,6 +1267,155 @@ TLPUI
    - [r/MAME](https://www.reddit.com/r/MAME/)
    - [r/EmuDev](https://www.reddit.com/r/EmuDev/)
    - [r/Roms](https://www.reddit.com/r/Roms/)
+
+### Frontends
+
+[EmulationStation Desktop Edition (ES-DE)](https://www.es-de.org/) is a frontend application for browsing and launching games from your multi-platform game collection. It's  available for Unix/Linux, macOS(M1 & Intel) and Windows. 
+
+[RetroArch](https://www.retroarch.com/) is a frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all. [RetroArch Flatpak](https://flathub.org/apps/details/org.libretro.RetroArch)
+
+[RetroPie](https://retropie.org.uk/) is a frontend for emulators that allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, [EmulationStation](https://github.com/Aloshi/EmulationStation), RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up.
+
+[Pegasus](https://pegasus-frontend.org/) is a cross platform, customizable graphical frontend for launching emulators and managing your game library (especially retro games) and launching them from one place. It's focused on customizability, cross platform support (including embedded devices) and high performance. [Pegasus Flatpak](https://flathub.org/apps/details/org.pegasus_frontend.Pegasus)
+
+[Mednaffe](https://github.com/AmatCoder/mednaffe) is a front-end (GUI) for mednafen emulator which is a portable argument(command-line)-driven multi-system emulator. [Mednaffe Flatpak](https://flathub.org/apps/details/com.github.AmatCoder.mednaffe)
+
+**The following systems are supported:**
+
+  * Atari Lynx
+  * Neo Geo Pocket (Color)
+  * WonderSwan
+  * GameBoy (Color)
+  * GameBoy Advance
+  * Nintendo Entertainment System
+  * Super Nintendo Entertainment System/Super Famicom
+  * Virtual Boy
+  * PC Engine/TurboGrafx 16 (CD)
+  * SuperGrafx
+  * PC-FX
+  * Sega Game Gear
+  * Sega Genesis/Megadrive
+  * Sega Master System
+  * Sega Saturn (experimental, x86_64 only)
+  * Sony PlayStation
+
+[Cartridge](https://github.com/unclebacon-live/cartridge) is a self-hosted game library made with Laravel + Vue.js.
+
+Cartridge Features
+
+- Scan for ROM files and match with IGDB game information
+- Serve ROM download links alongside game details
+- Manage access to library with user creation and permissions (WIP)
+- Allow users to request games (Planned)
+- Play select ROMs in-browser using JS emulators (Planned)
+- Track played and favorite games (even ones that aren't available for download) (Planned)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/172274231-d691a850-1879-44fb-8fa0-08e549d7bb29.png">
+    <br />
+      Cartridge UI
+</p>
+
+### Nintendo GameCube & Wii
+
+[Dolphin](https://dolphin-emu.org) is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more. [Dolphin Flatpak](https://flathub.org/apps/details/org.DolphinEmu.dolphin-emu)
+
+### Nintendo Switch 
+
+[Ryujinx](https://ryujinx.org/) is an open-source Nintendo Switch emulator created by gdkchan and written in C#. This emulator aims at providing excellent accuracy and performance, a user-friendly interface, and consistent builds. [Ryujinx Flatpak](https://flathub.org/apps/details/org.ryujinx.Ryujinx)
+
+[yuzu](https://yuzu-emu.org) is an experimental open-source emulator for the Nintendo Switch from the creators of Citra. [yuzu](https://yuzu-emu.org) is an experimental open-source emulator for the Nintendo Switch from the creators of Citra.[Yuzu Flatpak](https://flathub.org/apps/details/org.yuzu_emu.yuzu)
+
+### Nintendo 64
+
+[m64p](https://m64p.github.io/) is a Nintendo 64 Emulator. It uses mupen64plus-gui, a brand new mupen64plus frontend written in Qt5. It supports all of the things you’d expect from a frontend (savestate management, pausing, screenshots). [m64p Flatpak](https://flathub.org/apps/details/io.github.m64p.m64p)
+
+[simple64](https://github.com/simple64/simple64) is an emulator based on a heavily modified version of mupen64plus-core, and ParaLLEl RSP/RDP. It includes a GUI, netplay, controller configuration, and  more. [simple64 Flatpak](https://flathub.org/apps/details/io.github.simple64.simple64)
+
+Nintendo 3DS
+
+[Citra](https://citra-emu.org/) is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games.[Citra Flatpak](https://flathub.org/apps/details/org.citra_emu.citra)
+
+### Nintendo DS
+
+[DeSmuME](https://desmume.org/) is a Nintendo DS emulator. [DeSmuME Flatpak](https://flathub.org/apps/details/org.desmume.DeSmuME)
+
+[melonDS](https://github.com/melonDS-emu/melonDS) is a tool that aims at providing fast and accurate Nintendo DS emulation. While it is still a work in progress, it has a pretty solid set of features. [melonDS Flatpak](https://flathub.org/apps/details/net.kuribo64.melonDS)
+
+**Features:**
+
+    * Nearly complete core (CPU, video, audio, etc...)
+    * OpenGL renderer, 3D upscaling
+    * RTC, microphone, lid close/open
+    * Joystick support
+    * Savestates
+    * Various display position/sizing/rotations modes
+    * Work-in-progress Wi-Fi emulation for online connectivity and local multiplayer
+    * Experimental emulation of the Nintendo DSi
+
+### Super Nintendo Entertainment System (SNES)
+
+[Snes9x](https://www.snes9x.com/) is a portable, freeware Super Nintendo Entertainment System (SNES) emulator. [Snes9x Flatpak](https://flathub.org/apps/details/com.snes9x.Snes9x) 
+
+[bsnes](https://github.com/bsnes-emu/bsnes) is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use. [bsnes flatpak](https://flathub.org/apps/details/dev.bsnes.bsnes)
+
+### Nintendo Entertainment System  
+
+[Nestopia](https://github.com/0ldsk00l/nestopia) is a portable NES/Famicom emulator written in C++. [Nestopia Flatpak](https://flathub.org/apps/details/ca._0ldsk00l.Nestopia)
+
+### Game Boy Advance
+
+[mGBA](https://mgba.io/) is a new emulator for running Game Boy Advance games. It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack. [mGBA Flatpak](https://flathub.org/apps/details/io.mgba.mGBA)
+
+[SameBoy](https://github.com/LIJI32/SameBoy) is an open source Game Boy (DMG) and Game Boy Color (CGB) emulator, written in portable C. It has an SDL frontend and a libretro core. [SameBoy Flatpak](https://flathub.org/apps/details/io.github.sameboy.SameBoy)
+
+[GB Enhanced+](https://github.com/shonumi/gbe-plus) is an original Game Boy, Game Boy Color and Game Boy Advance emulator. Its focus is on completeness of emulation, including peripherals. [GB Enhanced+ Flatpak](https://flathub.org/apps/details/com.github.shonumi.gbe-plus)
+
+### DOS 
+
+[DOSBox](https://www.dosbox.com/) is an open-source DOS emulator which primarily focuses on running DOS Games.
+
+[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode. [DOSBox Staging Flatpak](https://flathub.org/apps/details/io.github.dosbox-staging)
+
+### Atari
+
+[Stella](https://stella-emu.github.io/) is a multi-platform Atari 2600 VCS emulator released under the GNU General Public License (GPL). Stella is available on Windows MacOS, Linux, and FreeBSD. [Stella Flatpak](https://flathub.org/apps/details/io.github.stella_emu.Stella)
+
+[Hatari](https://hatari.tuxfamily.org/) is an Atari ST/STE/TT/Falcon emulator for Linux, BSD, MacOS, Windows and other systems which are supported by the SDL library. The Atari ST was a 16/32 bit computer system which was first released by Atari in 1985. [Hatrai Flatpak](https://flathub.org/apps/details/org.tuxfamily.hatari)
+
+### Sega Dreamcast
+
+[Flycast](https://github.com/flyinghead/flycast) is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast. [Flycast Flatpak](https://flathub.org/apps/details/org.flycast.Flycast)
+
+### PlayStation Portable
+
+[PPSSPP](https://www.ppsspp.org/) is a PSP emulator that can run games in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. [PPSSPP Flatpak](https://flathub.org/apps/details/org.ppsspp.PPSSPP)
+
+### PlayStation 1
+
+[DuckStation](https://www.duckstation.org/) is an simulator/emulator of the Sony PlayStation 1 console, focusing on playability, speed, and long-term maintainability. [DuckStation Flatpak](https://flathub.org/apps/details/org.duckstation.DuckStation).
+
+[Avocado](https://github.com/JaCzekanski/Avocado) is a Modern PlayStation 1 emulator.
+
+### PlayStation 2
+
+[PCSX2](https://pcsx2.net/) is a Playstation 2 'emulator', a free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC. [PCSX2 Flatpak](https://flathub.org/apps/details/net.pcsx2.PCSX2)
+
+[Play!](https://github.com/jpd002/Play-) is a PlayStation2 emulator for Windows, macOS, Linux, Android, iOS and web browser platforms. [Play! Flatpak](https://flathub.org/apps/details/org.purei.Play)
+
+### PlayStation 3
+
+[RPCS3](https://rpcs3.net/) is an experimental open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows and Linux. RPCS3 started development in May of 2011 by its founders DH and Hykem. The emulator is currently capable of running over 1800 commercial titles powered by Vulkan and OpenGL. [RPCS3 Flatpak](https://flathub.org/apps/details/net.rpcs3.RPCS3)
+
+### Xbox
+
+[xemu](https://xemu.app/) is an original Xbox emulator. [xemu Flatpak](https://flathub.org/apps/details/app.xemu.xemu)
+
+[Xenia](https://github.com/xenia-project/xenia) is an Xbox 360 Emulator. 
+
+### MAME
+
+[MAME](https://www.mamedev.org/) is a Arcade Machine Emulator. [MAME Flatpak](https://flathub.org/apps/details/org.mamedev.MAME)
 
 
 ## Hardware Performance(CPU, GPU, Gaming Peripherals)

@@ -1,3 +1,5 @@
+# Glossary
+
 A list of useful terms for the Linux ecosystem software and hardware.
 
 <p align="center">
@@ -31,9 +33,11 @@ K
 L
 
 M
+
 N
 
 O
+
 P
 
 Q

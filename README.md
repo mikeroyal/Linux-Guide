@@ -13,6 +13,7 @@
  
 1. [Linux Learning Resources](https://github.com/mikeroyal/Linux-Guide#linux-learning-resources)
      * [Linux Software Repositories & Package Managers](https://github.com/mikeroyal/Linux-Guide#linux-software-repositories--package-managers)
+     * [Linux kernel](#Linux-Kernel)
      * [Systemd](https://github.com/mikeroyal/Linux-Guide#systemd)
      * [Linux YouTube Channels](https://github.com/mikeroyal/Linux-Guide#linux-youtube-channels)
      * [Linux Podcasts](https://github.com/mikeroyal/Linux-Guide#linux-podcasts)
@@ -205,6 +206,39 @@ Fedora Updates System
 [Pacman](https://archlinux.org/pacman/) is a utility which manages software packages in Arch Linux. It uses simple compressed files as a package format, and maintains a text-based package database (more of a hierarchy), just in case some hand tweaking is necessary. 
 
 [Arch Linux User Repository (AUR)](https://aur.archlinux.org/) is a software repository that contains thousands build scripts, for compiling nearly 68,000 installable packages from source using the Arch Linux makepkg application.
+
+### Linux Kernel
+
+[Back to the Top](#table-of-contents)
+
+The Linux kernel is the main component of a Linux operating system (OS) and is the core interface between a computer’s hardware and its processes. It communicates between the 2, managing resources as efficiently as possible.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/219989150-5b6d5f1d-e7f8-4c5e-8fb9-5359f1acc54d.png">
+  <br />
+Linux kernel layout
+</p>
+
+**Categories for Linux Kernel Releases:**
+
+* **Prepatch:** Prepatch or "RC(Realease Candidate)" kernels are mainline kernel pre-releases that are mostly aimed at other kernel developers and Linux enthusiasts. They must be compiled from source and usually contain new features that must be tested before they can be put into a stable release. Prepatch kernels are maintained and released by Linus Torvalds.
+    
+* **Mainline:** Mainline tree is maintained by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds). It's the tree where all new features are introduced and where all the exciting new development happens. New mainline kernels are released every 9-10 weeks.
+    
+* **Stable:** After each mainline kernel is released, it is considered "stable." Any bug fixes for a stable kernel are backported from the mainline tree and applied by a designated stable kernel maintainer. There are usually only a few bugfix kernel releases until next mainline kernel becomes available -- unless it is designated a "longterm maintenance kernel." Stable kernel updates are released on as-needed basis, usually once a week.
+    
+* **Longterm:** There are usually several "longterm maintenance" kernel releases provided for the purposes of backporting bugfixes for older kernel trees. Only important bugfixes are applied to such kernels and they don't usually see very frequent releases, especially for older trees. 
+
+**Current Longterm release kernels**
+ 
+|Version |Maintainer |	Released |Projected EOL|
+|------|------|-----|-----|
+|6.1 |Greg Kroah-Hartman & Sasha Levin |2022-12-11 |Dec, 2026|
+|5.15 |Greg Kroah-Hartman & Sasha Levin |2021-10-31 |Oct, 2026|
+|5.10 |Greg Kroah-Hartman & Sasha Levin |2020-12-13 |Dec, 2026|
+|5.4 |Greg Kroah-Hartman & Sasha Levin 	|2019-11-24 |Dec, 2025|
+|4.19 |Greg Kroah-Hartman & Sasha Levin |2018-10-22 |Dec, 2024|
+|4.14 |Greg Kroah-Hartman & Sasha Levin |2017-11-12 |Jan, 2024|
 
 ### Systemd
 [Back to the Top](#table-of-contents)

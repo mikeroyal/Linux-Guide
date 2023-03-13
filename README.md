@@ -53,8 +53,9 @@
     * [Setting up OBS Studio](https://github.com/mikeroyal/Linux-Guide#Setting-up-OBS-Studio)
       * [Useful OBS Studio 3rd party Plugins & Themes](https://github.com/mikeroyal/Linux-Guide#useful-obs-studio-3rd-party-plugins-and-themes)
     
-8. [Gaming](https://github.com/mikeroyal/Linux-Guide#gaming)
-     
+8. [Gaming](https://github.com/mikeroyal/Linux-Guide#gaming)  
+     - [Linux Gaming Resources & Tweak Tools](#Linux-Gaming-Resources--Tweak-Tools)
+     - [Game Controllers](#game-controllers)
      - [Steam](https://github.com/mikeroyal/Linux-Guide#steam)
      - [ProtonDB](https://github.com/mikeroyal/Linux-Guide#protondb)
      - [Lutris](https://github.com/mikeroyal/Linux-Guide#lutris)
@@ -1074,6 +1075,80 @@ TLPUI
  * [Linux Gaming Central](https://linuxgamingcentral.com/)
  * [Linux Game Cast](https://www.youtube.com/c/linuxgamecast)
  * [r/linux_gaming subreddit](https://www.reddit.com/r/linux_gaming)
+ 
+### Game Controllers
+
+[Back to Top](#steam-deck-accessories)
+
+[Steam Contoller](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=steam+controller&_sacat=0)
+
+ * **Note:** Steam Controllers were discontinued on November 26, 2019, though, you can still buy them on ebay.
+
+ * [Steam Controller Setup](https://help.steampowered.com/en/faqs/view/41C5-7D8C-1671-411E)
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/211141385-fe44e2a3-ebc2-41d7-acc1-4d14957ef9aa.png">
+ 
+</p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/211141386-8054ef27-e7de-4ecc-96e9-b8a46e45a9ea.png">
+ 
+</p>
+
+
+[Xbox Wireless Controller + USB-C® Cable](https://www.xbox.com/en-us/accessories/controllers/xbox-wireless-controller-usb-c)
+
+ * [XONE](https://github.com/medusalix/xone) is a Linux kernel driver for Xbox One and Xbox Series X|S accessories. It serves as a modern replacement for xpad, aiming to be compatible with Microsoft's Game Input Protocol (GIP).
+ * [XPAD neo](https://github.com/atar-axis/xpadneo) is an Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S).
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/187094245-3c406751-4e4b-42fd-bd2c-a72181722fad.png">
+  <br />
+    Xbox Controller
+</p>
+
+[PlayStation 5 DualSense™ Wireless Controller](https://www.playstation.com/en-us/accessories/dualsense-wireless-controller/)
+
+* [Update the wireless controller firmware](https://controller.dl.playstation.net/controller/lang/gb/fwupdater.html)
+
+* [DS4Windows](https://ds4-windows.com/) is an open-source gamepad input mapper and virtual emulator designed to use and connect your PlayStation controller (DualShock 3/4 and DualSense 5) to a Windows 10 & 11 PC. It also comes handy with emulating a Xbox controller and tricks the computer into thinking the DS4, is in fact, an Xbox game pad (virtual emulation occurs).
+
+**Note:** make sure to use [Bottles](https://usebottles.com/) to run this firmware update and DS4Windows.
+ 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/187094347-109c80cd-5cc3-4a97-8a8f-0181687ab0d4.png">
+  <br />
+    PS 5  DualSense™ Controller
+</p>
+
+[Nintendo Switch Pro Controller](https://www.amazon.com/Nintendo-Switch-Pro-Controller/dp/B01NAWKYZ0)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/194023448-09e74efa-67f8-4503-87f5-5b7e59289608.png">
+  <br />
+    Nintendo Switch Pro Controller
+</p>
+
+[8Bitdo Ultimate Bluetooth Controller](https://www.8bitdo.com/ultimate-bluetooth-controller/) with Charging Dock, Wireless Pro Controller for Switch, Windows and Steam Deck.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/212845008-8d95f23a-a391-4370-9a93-e033ce5491c8.png">
+</p>
+
+[GuliKit KingKong 2 Pro Wireless Controller](https://www.amazon.com/KingKong-Wireless-Controller-Nintendo-Switch-Bluetooth/dp/B09QJN8ZD9)
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45159366/212845013-9ab88231-3185-4c27-a28f-825aee3fec5e.png">
+</p>
+
+[Amazon Luna Controller](https://www.amazon.com/luna/getting-started)
+
+* **The Luna Controller** is made for Amazon's cloud gaming service. Powered by Cloud Direct technology Connect directly to Amazon's custom game servers when playing on Luna, reducing roundtrip latency by 17 to 30 milliseconds vs. a local Bluetooth connection among Windows PC, Mac, and Fire TV. 
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/218290132-7a548dea-8c9b-4c96-8efb-24b9d8c7f74c.png">
+</p>
   
 ## Steam
 [Back to the Top](#table-of-contents)

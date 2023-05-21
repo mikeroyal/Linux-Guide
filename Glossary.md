@@ -55,6 +55,8 @@ D
 
 [Deepin Desktop](https://www.deepin.org/en/dde/), an elegant, easy to use and reliable domestic desktop environment.
 
+[DXVK](https://github.com/doitsujin/dxvk) is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+
 E
 
 [EPEL (Extra Packages for Enterprise Linux)](https://docs.fedoraproject.org/en-US/epel/) is an free and open source community-based repository project from the Fedora team which provides 100% high-quality add-on software packages for Linux distribution including RHEL (Red Hat Enterprise Linux) and CentOS Stream.
@@ -113,6 +115,8 @@ M
 
 [MATE Desktop](https://mate-desktop.org/), is the continuation of GNOME 2 desktop environment. 
 
+[Mesa3D](https://mesa3d.org/) is a 3D graphics library with open-source implementations of OpenGL, OpenGL ES, Vulkan, OpenCL, and more. Mesa 23.1 comes with support for several new Vulkan extensions for the Radeon Vulkan driver (RADV) for AMD Radeon GPUs.
+
 [Micro DNF](https://fedoraproject.org/wiki/Changes/MajorUpgradeOfMicrodnf) is a lightweight C implementation of DNF, designed to be used for doing simple packaging actions when you don't need full-blown DNF and you want the tiniest useful environments possible. Checkout the [Micro DNF GitHub](https://github.com/rpm-software-management/microdnf).
 
 [Mutter](https://gitlab.gnome.org/GNOME/mutter) is a Wayland display server and X11 window manager and compositor library. When used as a Wayland display server, it runs on top of KMS and libinput. It implements the compositor side of the Wayland core protocol as well as various protocol extensions. 
@@ -155,9 +159,13 @@ P
 
 [PipeWire](https://pipewire.org) is a server and user space API to deal with multimedia pipelines.It provides a low-latency, graph based processing engine on top of audio and video devices that can be used to support the use cases currently handled by both pulseaudio and JACK.
 
+[Proton](https://github.com/ValveSoftware/Proton) is a compatibility layer based on Wine and additional components for Windows games to run on Linux-based operating systems.
+
 [Pulp](https://pulpproject.org/) is a software repository platform for Fetching, Uploading, Organizing, and Distributing Software Packages.
 
 Q
+
+[Qt](https://www.qt.io/) is a cross-platform application development framework for desktop, embedded and mobile. Supported Platforms include Linux, MacOS, Windows, Android, and iOS.
 
 R
 
@@ -210,6 +218,8 @@ U
 V
 
 [Valve](https://www.valvesoftware.com/) makers of the Steam, SteamOS, and [Steam Deck](http://www.steamdeck.com/).
+
+[vkd3d-proton](https://github.com/HansKristian-Work/vkd3d-proton) is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan. The project serves as the development effort for Direct3D 12 support in [Proton](https://github.com/ValveSoftware/Proton).
 
 W
 

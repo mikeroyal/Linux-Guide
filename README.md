@@ -612,7 +612,7 @@ Linux Boot Process
 
 [FlatHub Forum](https://discourse.flathub.org/)
 
- <img src="https://user-images.githubusercontent.com/45159366/106686365-055a7b80-657f-11eb-9b58-1de28abe2e5b.png">
+ <img src="https://github.com/mikeroyal/Linux-Guide/assets/45159366/e19925b2-4fcf-406d-81eb-85b8dcd84889">
  
  ## Snaps
 

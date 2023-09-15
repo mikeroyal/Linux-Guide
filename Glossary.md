@@ -87,6 +87,8 @@ G
 
 H
 
+[Hardware Enablement (HWE)](https://ubuntu.com/kernel/lifecycle) is a Ubuntu LTS enablement stack that provides the newer kernel(currently kernel 6.2 for Ubuntu 22.04 LTS) and X support for existing Ubuntu LTS releases. That stack can be enabled manually, but may also be pre-enabled with an Ubuntu LTS release. The HWE stack can be used by desktop and server systems, as well as cloud or virtual images.
+
 [Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover). 
 
 I

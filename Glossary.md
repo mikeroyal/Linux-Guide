@@ -11,6 +11,8 @@ A
 
 [AppArmor](https://www.apparmor.net/) is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited.
 
+[Appvm](https://github.com/jollheef/appvm) is a simple application VMs (hypervisor-based sandbox) based on Nix package manager. It uses one read-only /nix directory for all appvms. So creating a new appvm (but not first) is just about one minute.
+
 [APT (Advanced Package Tool)](https://en.wikipedia.org/wiki/APT_(software)) is a higher-level package management systemtool, that is more commonly used than dpkg as it can fetch packages from remote locations.
 
 [Anaconda](http://fedoraproject.org/wiki/Anaconda) is an OS installer used by Fedora, Red Hat Enterprise Linux (RHEL), CentOS Stream and other Linux distributions.

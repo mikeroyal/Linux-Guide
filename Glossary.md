@@ -79,6 +79,8 @@ F
 
 [Fedora Updates System](https://bodhi.fedoraproject.org/) is a place to create, test, and publish package updates for Fedora.
 
+[FlakeHub](https://flakehub.com/new) is a platform developed by [Determinate Systems](https://determinate.systems/) for discovering and publishing [Nix flakes](https://zero-to-nix.com/concepts/flakes).
+
 [FlatHub](https://flathub.org/) is a build and distribution service for Flatpak applications.
 
 [Fluxbox](https://fluxbox.org/) is a stacking window manager for the X Window System, which based upon Blackbox.

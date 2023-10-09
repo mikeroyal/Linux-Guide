@@ -111,6 +111,8 @@ K
 
 L
 
+[Lacros (Linux And ChRome OS)](https://chromium.googlesource.com/chromium/src/+/main/docs/lacros.md) is an architecture project to decouple the Chrome browser from the Chrome OS window manager and system UI.
+
 [Linux kernel](https://www.kernel.org/) is the main component of a Linux operating system (OS) and is the core interface between a computer’s hardware and its processes. It communicates between the 2, managing resources as efficiently as possible.
 
 [Linux Mint](https://linuxmint.com/) is a modern, elegant, and comfortable open source operating system(based on Debian and Ubuntu), which is both powerful and easy to use for both new and advanced users.

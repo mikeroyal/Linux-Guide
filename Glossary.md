@@ -217,6 +217,8 @@ S
 
 [Steam OS 3.0](https://store.steampowered.com/steamdeck) is an [immutable](https://en.wikipedia.org/wiki/Immutable_object) Operating System(OS) using the [KDE Plasma](https://kde.org/plasma-desktop) desktop.
 
+[Simple Wireplumber GUI](https://github.com/dyegoaurelio/simple-wireplumber-gui) is a tool you can easily rename and see the properties of your audio devices if you're running **pipewire** as your audio server and **wireplumber** as it's session and policy manager. [Flatpak version](https://flathub.org/apps/io.github.dyegoaurelio.simple-wireplumber-gui)
+
 [SUSE](https://www.suse.com) makers of SUSE Enterprise Linux.
 
 [System76](https://system76.com) makers of [Pop!_OS](https://pop.system76.com/)

@@ -227,6 +227,8 @@ U
 
 [Ubuntu](https://ubuntu.com/) is a modern open source operating system on Linux for the enterprise Server, Desktop, Cloud, and IoT developed by Canonical.
 
+[Ubuntu Core](https://ubuntu.com/core) is a secure and minimal version of Ubuntu that is designed for IoT and embedded systems. Ubuntu Core updates itself and its applications automatically using [snap packages](https://snapcraft.io/store) exclusively to create a confined-based system.
+
 [Unity Desktop](https://unity8.io/), a graphical shell for the GNOME desktop environment originally developed by Canonical Ltd.
 
 V

@@ -95,6 +95,8 @@ H
 
 [Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and macOS (for both Native and Windows Games using Crossover). 
 
+[Hyprland](https://hyprland.org/) is a [wlroots-based](https://gitlab.freedesktop.org/wlroots) dynamic tiling wayland compositor written in C++ that offers unique features like smooth animations, dynamic tiling and rounded corners.
+
 I
 
 [init](https://en.wikipedia.org/wiki/Init) is parent of all Linux processes with PID or process ID of 1. It is the first process to start when a computer boots up and runs until the system shuts down. **init stands for initialization**. 

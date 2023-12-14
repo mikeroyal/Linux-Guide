@@ -63,6 +63,8 @@ E
 
 [EPEL (Extra Packages for Enterprise Linux)](https://docs.fedoraproject.org/en-US/epel/) is an free and open source community-based repository project from the Fedora team which provides 100% high-quality add-on software packages for Linux distribution including RHEL (Red Hat Enterprise Linux) and CentOS Stream.
 
+[EPEL Next](https://docs.fedoraproject.org/epel/epel-about-next/) is an additional repository that allows package maintainers to alternatively build against CentOS Stream. This is sometimes necessary when CentOS Stream contains an upcoming RHEL library rebase, or if an EPEL package has a minimum version build requirement that is already in CentOS Stream but not yet in RHEL. EPEL Next packages have .next appended to the disttag (a disttag of .el8.next for epel8-next) to provide an upgrade path from an EPEL package that was built from the same distgit commit. A package maintainer can rebuild the same commit for both EPEL and EPEL Next and get two different NVRs in koji.
+
 F
 
 [Fedora](https://getfedora.org/) is a polished, easy to use operating system for laptop & desktop computers, with a complete set of tools for developers and makers of all kinds.
